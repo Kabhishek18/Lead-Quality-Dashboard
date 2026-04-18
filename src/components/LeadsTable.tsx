@@ -1,5 +1,7 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import type { LeadRecord } from "../types/lead";
+
+const PAGE_SIZE_OPTIONS = [100, 300, 500, 1000] as const;
 
 type SortKey =
   | "leadId"
@@ -67,6 +69,12 @@ export function LeadsTable({
   const [dateTo, setDateTo] = useState("");
   const [sortKey, setSortKey] = useState<SortKey>("occurredAt");
   const [sortDir, setSortDir] = useState<"asc" | "desc">("desc");
+  const [pageSize, setPageSize] = useState<(typeof PAGE_SIZE_OPTIONS)[number]>(100);
+  const [pageIndex, setPageIndex] = useState(0);
+
+  useEffect(() => {
+    setPageIndex(0);
+  }, [q, source, state, status, dateFrom, dateTo, sortKey, sortDir]);
 
   const filtered = useMemo(() => {
     const ql = q.trim().toLowerCase();
@@ -142,6 +150,22 @@ export function LeadsTable({
     return arr;
   }, [filtered, sortKey, sortDir]);
 
+  const totalFiltered = sorted.length;
+  const totalPages =
+    totalFiltered === 0 ? 1 : Math.ceil(totalFiltered / pageSize);
+
+  useEffect(() => {
+    setPageIndex((i) => Math.min(i, Math.max(0, totalPages - 1)));
+  }, [totalPages, pageSize]);
+
+  const pageRows = useMemo(() => {
+    const start = pageIndex * pageSize;
+    return sorted.slice(start, start + pageSize);
+  }, [sorted, pageIndex, pageSize]);
+
+  const rangeStart = totalFiltered === 0 ? 0 : pageIndex * pageSize + 1;
+  const rangeEnd = totalFiltered === 0 ? 0 : Math.min((pageIndex + 1) * pageSize, totalFiltered);
+
   function toggleSort(key: SortKey) {
     if (sortKey === key) setSortDir((d) => (d === "asc" ? "desc" : "asc"));
     else {
@@ -151,7 +175,7 @@ export function LeadsTable({
   }
 
   return (
-    <section className="panel" aria-labelledby="table-heading">
+    <section className="panel" id="table" aria-labelledby="table-heading">
       <h2 id="table-heading">Lead-level data</h2>
       <div className="filters">
         <label>
@@ -216,16 +240,69 @@ export function LeadsTable({
         <button
           type="button"
           className="export-btn"
-          onClick={() =>
-            downloadCsv("filtered_leads.csv", sorted)
-          }
+          onClick={() => downloadCsv("filtered_leads_all.csv", sorted)}
         >
-          Export CSV
+          Export all (filtered)
+        </button>
+        <button
+          type="button"
+          className="export-btn export-btn-secondary"
+          disabled={totalFiltered === 0}
+          onClick={() => {
+            const name = `filtered_leads_page_${pageIndex + 1}_rows_${rangeStart}-${rangeEnd}.csv`;
+            downloadCsv(name, pageRows);
+          }}
+        >
+          Export this page
         </button>
       </div>
-      <p className="hint">
-        Showing {sorted.length} of {leads.length} rows (filtered).
+      <p className="hint export-note">
+        Exports use current filters and sort order.{" "}
+        {totalFiltered === 0
+          ? "No rows match."
+          : `Showing ${rangeStart}–${rangeEnd} of ${totalFiltered} filtered rows (${leads.length} total in dataset).`}
       </p>
+      <div className="pagination-bar">
+        <label>
+          Rows per page
+          <select
+            aria-label="Rows per page"
+            value={pageSize}
+            onChange={(e) =>
+              setPageSize(Number(e.target.value) as (typeof PAGE_SIZE_OPTIONS)[number])
+            }
+          >
+            {PAGE_SIZE_OPTIONS.map((n) => (
+              <option key={n} value={n}>
+                {n}
+              </option>
+            ))}
+          </select>
+        </label>
+        <div className="pagination-controls" role="group" aria-label="Pagination">
+          <button
+            type="button"
+            className="pagination-btn"
+            disabled={pageIndex <= 0 || totalFiltered === 0}
+            onClick={() => setPageIndex((i) => Math.max(0, i - 1))}
+          >
+            Previous
+          </button>
+          <span className="pagination-status" aria-live="polite">
+            Page {totalFiltered === 0 ? 0 : pageIndex + 1} of {totalPages}
+          </span>
+          <button
+            type="button"
+            className="pagination-btn"
+            disabled={pageIndex >= totalPages - 1 || totalFiltered === 0}
+            onClick={() =>
+              setPageIndex((i) => Math.min(totalPages - 1, i + 1))
+            }
+          >
+            Next
+          </button>
+        </div>
+      </div>
       <div className="table-wrap">
         <table className="data">
           <thead>
@@ -267,7 +344,7 @@ export function LeadsTable({
             </tr>
           </thead>
           <tbody>
-            {sorted.slice(0, 500).map((l) => (
+            {pageRows.map((l) => (
               <tr key={l.leadId}>
                 <td>{l.leadId}</td>
                 <td>{l.leadName}</td>
@@ -293,9 +370,6 @@ export function LeadsTable({
           </tbody>
         </table>
       </div>
-      {sorted.length > 500 ? (
-        <p className="hint">Only first 500 rows shown; export CSV for full filtered set.</p>
-      ) : null}
     </section>
   );
 }

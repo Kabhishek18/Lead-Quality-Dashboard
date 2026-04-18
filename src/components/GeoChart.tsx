@@ -29,7 +29,7 @@ export function GeoChart({
   }));
 
   return (
-    <section className="panel" aria-labelledby="geo-heading">
+    <section className="panel" id="geo" aria-labelledby="geo-heading">
       <h2 id="geo-heading">Geography: strict acceptance by state</h2>
       <div className="filters">
         <label>

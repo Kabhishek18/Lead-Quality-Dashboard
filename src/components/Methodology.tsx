@@ -9,7 +9,7 @@ import {
 
 export function Methodology() {
   return (
-    <section className="panel" aria-labelledby="method-heading">
+    <section className="panel" id="methodology" aria-labelledby="method-heading">
       <h2 id="method-heading">Methodology</h2>
       <div className="inner methodology">
           <p>

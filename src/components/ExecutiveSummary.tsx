@@ -17,17 +17,33 @@ function VerdictBadge({ v }: { v: Verdict }) {
   return <span className={`badge ${v}`}>{describeVerdict(v)}</span>;
 }
 
+function VerdictLegend() {
+  return (
+    <div className="verdict-legend" aria-label="Verdict color key">
+      <span className="verdict-legend-label">Verdict:</span>
+      <span className="badge scale">{describeVerdict("scale")}</span>
+      <span className="verdict-legend-hint">prioritize scaling</span>
+      <span className="badge watch">{describeVerdict("watch")}</span>
+      <span className="verdict-legend-hint">review</span>
+      <span className="badge cut">{describeVerdict("cut")}</span>
+      <span className="verdict-legend-hint">reduce or fix</span>
+    </div>
+  );
+}
+
 export function ExecutiveSummary({
   rows,
 }: {
   rows: { metrics: SourceMetrics; verdict: Verdict }[];
 }) {
   return (
-    <section className="panel" aria-labelledby="exec-heading">
+    <section className="panel" id="summary" aria-labelledby="exec-heading">
       <h2 id="exec-heading">Executive summary</h2>
+      <VerdictLegend />
       <p className="hint">
-        Ranked by lead volume. Verdict uses strict acceptance, pending risk, phone
-        hygiene, and week-over-week trend (see methodology).
+        Sorted by verdict (Scale → Watch → Cut), then by lead volume. Verdict uses
+        strict acceptance, pending risk, phone hygiene, and week-over-week trend
+        (see methodology).
       </p>
       <div className="table-wrap">
         <table className="data">

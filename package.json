@@ -2,6 +2,11 @@
   "name": "lead-quality-dashboard",
   "private": true,
   "version": "1.0.0",
+  "homepage": "https://kabhishek18.github.io/Lead-Quality-Dashboard/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kabhishek18/Lead-Quality-Dashboard.git"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",

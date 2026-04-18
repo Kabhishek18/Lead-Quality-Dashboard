@@ -1,9 +1,10 @@
 # Lead Quality Dashboard
 
-Static dashboard for **carrier account managers**: compare lead **sources** on strict carrier acceptance, pending risk, form-completion behavior, geography, and derived phone hygiene—then see **Scale / Watch / Cut** verdicts backed by explicit thresholds.
+**Live link:** [https://kabhishek18.github.io/Lead-Quality-Dashboard/](https://kabhishek18.github.io/Lead-Quality-Dashboard/)
+
+**Assignment / grader summary:** Carrier account managers need to compare **lead sources** on quality—not only volume—to decide what to **scale** vs **cut**. This app loads a CSV in the browser, computes **strict acceptance** (decided leads), **pending** risk, form timing, geography, and derived **phone hygiene**, then shows **Scale / Watch / Cut** verdicts with thresholds in **Methodology**. Open the **[live site](https://kabhishek18.github.io/Lead-Quality-Dashboard/)** to review the full UI (Start here, executive summary, charts, geo, table).
 
 - **Repository:** [github.com/Kabhishek18/Lead-Quality-Dashboard](https://github.com/Kabhishek18/Lead-Quality-Dashboard)
-- **Live demo (GitHub Pages):** [kabhishek18.github.io/Lead-Quality-Dashboard](https://kabhishek18.github.io/Lead-Quality-Dashboard/)
 
 ## Metrics (short)
 
@@ -11,16 +12,33 @@ Static dashboard for **carrier account managers**: compare lead **sources** on s
 - **Phone issues:** Invalid 10-digit patterns, obvious test numbers, or duplicate phones across leads (no validity column in the CSV).
 - **Verdicts:** Tunable in [`src/lib/constants.ts`](src/lib/constants.ts); full definitions in the in-app **Methodology** section.
 
-## Local development
+## Daily development
+
+Typical loop: install once, then run the dev server.
 
 ```bash
 npm install
 npm run dev
 ```
 
-Open the URL Vite prints (default base `/`).
+Open the URL Vite prints (default base `/`). Use this for all UI and data changes.
 
-## Production build
+## Demo (60 seconds)
+
+1. Open the **[live link](https://kabhishek18.github.io/Lead-Quality-Dashboard/)**.
+2. Read **Start here**, then **Executive summary**—note verdict **legend** (green / amber / red) and a **Scale** vs **Cut** source.
+3. Optionally skim **Charts** and **Geo**; scroll to **Methodology** for metric definitions.
+4. Done.
+
+## Data
+
+Bundled at [`public/leads_dataset.csv`](public/leads_dataset.csv) (copy of the assignment CSV). The app loads it at runtime via `fetch` using Vite’s `import.meta.env.BASE_URL`.
+
+## Deploy (GitHub Pages)
+
+### Production build (only when deploying or matching GitHub Pages)
+
+You usually do **not** need this for day-to-day work—use `npm run dev` above. Use a production build when checking asset paths or before relying on CI.
 
 For this **project site** (repo [`Lead-Quality-Dashboard`](https://github.com/Kabhishek18/Lead-Quality-Dashboard)), CI sets `VITE_BASE` automatically. To build locally the same way:
 
@@ -40,12 +58,6 @@ For a **user site** (`username.github.io` with repo `username.github.io`), use:
 VITE_BASE=/ npm run build
 ```
 
-## Data
-
-Bundled at [`public/leads_dataset.csv`](public/leads_dataset.csv) (copy of the assignment CSV). The app loads it at runtime via `fetch` using Vite’s `import.meta.env.BASE_URL`.
-
-## Deploy (GitHub Pages)
-
 **Order matters.** The **deploy** step talks to GitHub’s Pages API. If Pages is not turned on for this repo, the deploy job fails with **`Failed to create deployment (status: 404)`** and *“Ensure GitHub Pages has been enabled”* — even when the **build** job is green and the `github-pages` artifact exists.
 
 ### First-time setup
@@ -55,7 +67,7 @@ Bundled at [`public/leads_dataset.csv`](public/leads_dataset.csv) (copy of the a
 3. Still under **Settings** → **Actions** → **General** → **Workflow permissions** → choose **Read and write permissions** → **Save**.
 4. Go to **Actions**, open **Deploy to GitHub Pages**, and **Re-run** the latest workflow (or push a commit).
 
-After a green run, the site URL appears on the **Pages** settings screen and at `https://<user>.github.io/<repo>/`.
+After a green run, the site URL appears on the **Pages** settings screen and at **[https://kabhishek18.github.io/Lead-Quality-Dashboard/](https://kabhishek18.github.io/Lead-Quality-Dashboard/)**.
 
 ### Ongoing deploys
 
@@ -72,7 +84,7 @@ That page means **GitHub has not published a site yet** (or the last deploy fail
 2. **Set Pages to use Actions** (this is easy to miss): **Settings → Pages → Build and deployment → Source** → choose **GitHub Actions**, not “Deploy from a branch”. Until this is set, the workflow’s deploy step will not go live.
 3. Open the **Actions** tab, select **Deploy to GitHub Pages**, and confirm the latest run is **green**. If it failed, open the failed job and fix the error (often `npm ci` or permissions).
 4. If the workflow waits for approval, check **Settings → Environments → `github-pages`** and clear any required reviewers for a personal repo, or approve the pending deployment in the Actions run.
-5. After a successful deploy, wait **1–2 minutes** and refresh [the live URL](https://kabhishek18.github.io/Lead-Quality-Dashboard/). You can also confirm the deployment under **Settings → Pages** (it should show the environment URL).
+5. After a successful deploy, wait **1–2 minutes** and refresh the **[live link](https://kabhishek18.github.io/Lead-Quality-Dashboard/)**. You can also confirm the deployment under **Settings → Pages** (it should show the environment URL).
 
 To trigger a deploy without code changes: **Actions → Deploy to GitHub Pages → Run workflow**.
 

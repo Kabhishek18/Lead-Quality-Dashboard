@@ -3,12 +3,14 @@ import { ExecutiveSummary } from "./components/ExecutiveSummary";
 import { GeoChart } from "./components/GeoChart";
 import { LeadsTable } from "./components/LeadsTable";
 import { Methodology } from "./components/Methodology";
+import { SectionNav } from "./components/SectionNav";
 import { SourceChart } from "./components/SourceChart";
+import { StartHere } from "./components/StartHere";
 import { TrendChart } from "./components/TrendChart";
 import { aggregateBySource, aggregateByState, aggregateWeeklyBySource, uniqueSources, uniqueStates } from "./lib/metrics";
 import { loadLeadsFromUrl } from "./lib/parseLeads";
 import { computeTrendDeltaForSource } from "./lib/trends";
-import { verdictForSource } from "./lib/verdict";
+import { compareVerdictTier, verdictForSource } from "./lib/verdict";
 import type { LeadRecord } from "./types/lead";
 
 export default function App() {
@@ -45,13 +47,19 @@ export default function App() {
   );
 
   const summaryRows = useMemo(() => {
-    return sourceMetrics.map((m) => ({
+    const rows = sourceMetrics.map((m) => ({
       metrics: m,
       verdict: verdictForSource(
         m,
         computeTrendDeltaForSource(weekly, m.source),
       ),
     }));
+    rows.sort((a, b) => {
+      const byVerdict = compareVerdictTier(a.verdict, b.verdict);
+      if (byVerdict !== 0) return byVerdict;
+      return b.metrics.totalLeads - a.metrics.totalLeads;
+    });
+    return rows;
   }, [sourceMetrics, weekly]);
 
   const sources = useMemo(
@@ -94,9 +102,12 @@ export default function App() {
           {leads.length} leads loaded ·{" "}
           <a href="https://github.com/Kabhishek18/Lead-Quality-Dashboard">GitHub</a>
           {" · "}
-          <a href="https://kabhishek18.github.io/Lead-Quality-Dashboard/">Live demo</a>
+          <a href="https://kabhishek18.github.io/Lead-Quality-Dashboard/">Live link</a>
         </p>
       </header>
+
+      <SectionNav />
+      <StartHere />
 
       {parseWarnings.length > 0 ? (
         <div className="error-banner" role="status">
@@ -106,8 +117,10 @@ export default function App() {
       ) : null}
 
       <ExecutiveSummary rows={summaryRows} />
-      <SourceChart metrics={sourceMetrics} />
-      <TrendChart weekly={weekly} />
+      <div id="charts" className="charts-section">
+        <SourceChart metrics={sourceMetrics} />
+        <TrendChart weekly={weekly} />
+      </div>
       <GeoChart
         metrics={stateMetrics}
         sourceFilter={geoSource}

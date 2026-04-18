@@ -1,4 +1,11 @@
 import type { SourceMetrics, TrendDelta, Verdict } from "../types/lead";
+
+/** Lower sorts first. Scale → Watch → Cut in table when ascending. */
+export const VERDICT_SORT_RANK: Record<Verdict, number> = {
+  scale: 0,
+  watch: 1,
+  cut: 2,
+};
 import {
   CUTOFF_ACCEPTANCE_STRICT,
   MIN_LEADS_FOR_CONFIDENCE,
@@ -38,6 +45,10 @@ export function verdictForSource(
   }
 
   return "watch";
+}
+
+export function compareVerdictTier(a: Verdict, b: Verdict): number {
+  return VERDICT_SORT_RANK[a] - VERDICT_SORT_RANK[b];
 }
 
 export function describeVerdict(v: Verdict): string {
