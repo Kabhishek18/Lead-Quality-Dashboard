@@ -2,9 +2,8 @@
 
 Static dashboard for **carrier account managers**: compare lead **sources** on strict carrier acceptance, pending risk, form-completion behavior, geography, and derived phone hygiene—then see **Scale / Watch / Cut** verdicts backed by explicit thresholds.
 
-**Live demo:** after you enable GitHub Pages, use  
-`https://<your-username>.github.io/<repo-name>/`  
-(Replace with your username and repository name.)
+- **Repository:** [github.com/Kabhishek18/Lead-Quality-Dashboard](https://github.com/Kabhishek18/Lead-Quality-Dashboard)
+- **Live demo (GitHub Pages):** [kabhishek18.github.io/Lead-Quality-Dashboard](https://kabhishek18.github.io/Lead-Quality-Dashboard/)
 
 ## Metrics (short)
 
@@ -23,19 +22,19 @@ Open the URL Vite prints (default base `/`).
 
 ## Production build
 
-For a **GitHub project site** where the repo name is e.g. `Lead_Dashboard`:
+For this **project site** (repo [`Lead-Quality-Dashboard`](https://github.com/Kabhishek18/Lead-Quality-Dashboard)), CI sets `VITE_BASE` automatically. To build locally the same way:
 
 ```bash
-VITE_BASE=/Lead_Dashboard/ npm run build
+VITE_BASE=/Lead-Quality-Dashboard/ npm run build
 ```
 
-Preview:
+Preview the production build (same base as GitHub Pages):
 
 ```bash
-npx vite preview
+npx vite preview --base /Lead-Quality-Dashboard/
 ```
 
-For a **user/org site** (`username.github.io` with repo named `username.github.io`), use:
+For a **user site** (`username.github.io` with repo `username.github.io`), use:
 
 ```bash
 VITE_BASE=/ npm run build
@@ -47,13 +46,24 @@ Bundled at [`public/leads_dataset.csv`](public/leads_dataset.csv) (copy of the a
 
 ## Deploy (GitHub Pages)
 
-1. Push this repo to GitHub.
+1. Push to [the repo](https://github.com/Kabhishek18/Lead-Quality-Dashboard).
 2. **Settings → Pages → Build and deployment:** set **Source** to **GitHub Actions**.
 3. The workflow [`.github/workflows/deploy-pages.yml`](.github/workflows/deploy-pages.yml) builds with `VITE_BASE=/<repo>/` and deploys the `dist` folder.
 
 If your default branch is not `main` or `master`, edit the workflow `on.push.branches` list.
 
+### “404 — There isn’t a GitHub Pages site here”
+
+That page means **GitHub has not published a site yet** (or the last deploy failed). Do this in order:
+
+1. **Turn on GitHub Actions** for the repo: **Settings → Actions → General → Actions permissions** → allow actions (at least for this repo).
+2. **Set Pages to use Actions** (this is easy to miss): **Settings → Pages → Build and deployment → Source** → choose **GitHub Actions**, not “Deploy from a branch”. Until this is set, the workflow’s deploy step will not go live.
+3. Open the **Actions** tab, select **Deploy to GitHub Pages**, and confirm the latest run is **green**. If it failed, open the failed job and fix the error (often `npm ci` or permissions).
+4. If the workflow waits for approval, check **Settings → Environments → `github-pages`** and clear any required reviewers for a personal repo, or approve the pending deployment in the Actions run.
+5. After a successful deploy, wait **1–2 minutes** and refresh [the live URL](https://kabhishek18.github.io/Lead-Quality-Dashboard/). You can also confirm the deployment under **Settings → Pages** (it should show the environment URL).
+
+To trigger a deploy without code changes: **Actions → Deploy to GitHub Pages → Run workflow**.
+
 ## Stack
 
 Vite, React, TypeScript, Papa Parse, Recharts.
-# Lead-Quality-Dashboard

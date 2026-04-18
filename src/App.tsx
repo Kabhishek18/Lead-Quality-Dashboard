@@ -91,8 +91,10 @@ export default function App() {
           friction, and hygiene—then decide what to scale vs cut.
         </p>
         <p className="meta">
-          {leads.length} leads loaded · static demo · replace{" "}
-          <code style={{ fontSize: "0.85em" }}>VITE_BASE</code> / repo name for GitHub Pages
+          {leads.length} leads loaded ·{" "}
+          <a href="https://github.com/Kabhishek18/Lead-Quality-Dashboard">GitHub</a>
+          {" · "}
+          <a href="https://kabhishek18.github.io/Lead-Quality-Dashboard/">Live demo</a>
         </p>
       </header>
 
