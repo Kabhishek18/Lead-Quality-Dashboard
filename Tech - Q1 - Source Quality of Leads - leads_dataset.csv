@@ -1,0 +1,701 @@
+lead_id,lead_name,source,timestamp,form_completion_time_sec,state,pincode,phone_number,carrier_acceptance_status
+LD1350,Karan Mehta,src_quality_tier_2,04/10/24 23:05,7,Delhi,110092,9876543210,Rejected
+LD1646,Rohit Kumar,GoogleAds_Search,12/11/24 9:36,261.8,Rajasthan,334001,9950230769,Rejected
+LD1306,Rajesh Pillai,src_quality_tier_2,14/11/24 16:22,,Gujarat,390001,9922308461,Rejected
+LD1259,Nikhil Agarwal,PolicyBazaar_Direct,13/10/24 11:17,154.3,Telangana,501301,9964411347,Accepted
+LD1599,Pooja Iyer,GoogleAds_Search,26/10/24 20:12,148.1,Karnataka,560001,9220615733,Rejected
+LD1288,Sunita Roy,GoogleAds_Search,15/11/24 20:46,99.2,West Bengal,700001,9269820594,Accepted
+LD1428,Rohit Kumar,GoogleAds_Search,14/11/24 15:31,252.1,Delhi,110011,9324956459,Accepted
+LD1527,Karan Mehta,GoogleAds_Search,11/11/24 21:43,73.4,Punjab,141001,9511315681,Rejected
+LD1125,Pooja Iyer,src_quality_tier_2,27/11/24 21:41,201.8,Punjab,160001,9709004943,Accepted
+LD1651,Ashok Bhatt,AffiliateNet_IN,27/09/24 18:56,230,Maharashtra,411001,9893016403,Rejected
+LD1037,Priya Singh,PolicyBazaar_Direct,14/09/24 15:55,171.4,West Bengal,734001,9873869166,Accepted
+LD1283,Rajesh Pillai,AffiliateNet_IN,10/11/24 8:29,165.2,Gujarat,380001,9507943839,Accepted
+LD1558,Amit Verma,MetaAds_Retarget,26/10/24 21:00,,Maharashtra,400051,9483889467,Accepted
+LD1345,Rohit Kumar,OrganicSEO,06/10/24 21:58,155.4,Punjab,143001,9334760738,Accepted
+LD1418,Amit Verma,PolicyBazaar_Direct,06/09/24 20:25,79,Telangana,501301,9304451095,Accepted
+LD1650,Anita Rao,AffiliateNet_IN,14/12/24 21:19,69.1,Uttar Pradesh,201301,9867538273,Pending
+LD1022,Arjun Reddy,OrganicSEO,06/11/24 20:31,86,West Bengal,700001,9964411347,Accepted
+LD1411,Priya Singh,src_quality_tier_2,25/10/24 20:44,195.2,Rajasthan,342001,9914763202,Accepted
+LD1691,Preeti Malhotra,PolicyBazaar_Direct,18/12/24 12:09,240.5,Tamil Nadu,600001,9950230769,Accepted
+LD1655,Swati Mishra,AffiliateNet_IN,23/09/24 21:39,170.4,Karnataka,580001,9762918409,Rejected
+LD1261,Arjun Reddy,AffiliateNet_IN,11/11/24 16:13,196.2,Rajasthan,342001,9924970419,Rejected
+LD1153,Raj Kumar,src_quality_tier_2,03/09/24 3:32,9,Uttar Pradesh,201301,9336456621,Rejected
+LD1644,Priya Singh,MetaAds_Retarget,13/10/24 21:24,90,Punjab,160001,9514399900,Rejected
+LD1008,Kavita Desai,GoogleAds_Search,27/09/24 13:43,242.5,Telangana,501301,9868820204,Accepted
+LD1367,Ashok Bhatt,PolicyBazaar_Direct,28/11/24 8:33,61.3,West Bengal,700001,9819595113,Pending
+LD1472,Kavita Desai,GoogleAds_Search,08/09/24 13:01,36.5,Rajasthan,342001,9873869166,Accepted
+LD1661,Sunita Roy,MetaAds_Retarget,04/11/24 21:45,50.5,Karnataka,580001,9532312868,Pending
+LD1059,Preeti Malhotra,OrganicSEO,20/11/24 10:06,185,Maharashtra,411001,9131994523,Accepted
+LD1109,Preeti Malhotra,PolicyBazaar_Direct,30/10/24 13:51,58.1,Karnataka,560001,9264109919,Rejected
+LD1193,Priya Singh,src_quality_tier_2,31/10/24 10:49,29.3,Karnataka,560001,9698020238,Accepted
+LD1217,Preeti Malhotra,MetaAds_Retarget,23/11/24 15:20,205.3,Telangana,500072,9497478786,Accepted
+LD1189,Karan Mehta,OrganicSEO,22/11/24 10:43,42.4,Punjab,141001,9191969690,Accepted
+LD1670,Kavita Desai,src_quality_tier_2,14/11/24 3:28,4.3,Rajasthan,700001,9999999999,Rejected
+LD1463,Sandeep Choudhary,GoogleAds_Search,23/10/24 11:07,276.1,Karnataka,590001,9347083812,Accepted
+LD1139,Swati Mishra,AffiliateNet_IN,28/10/24 14:55,256.2,Uttar Pradesh,226001,9906248900,Accepted
+LD1687,Arun Bose,GoogleAds_Search,28/09/24 19:19,171.5,Gujarat,395001,9159933789,Accepted
+LD1333,Sunita Roy,PolicyBazaar_Direct,28/11/24 20:30,177,Rajasthan,302001,9349957310,Accepted
+LD1132,Deepak Tiwari,AffiliateNet_IN,24/09/24 19:00,111,Gujarat,390001,9679153816,Rejected
+LD1201,Aaa Bbb,src_quality_tier_2,02/10/24 0:29,,West Bengal,700020,9326541099,Rejected
+LD1312,John Doe,src_quality_tier_2,05/11/24 2:17,4.2,Punjab,110011,9133729406,Rejected
+LD1569,Manoj Khanna,MetaAds_Retarget,04/12/24 16:31,181.2,West Bengal,711101,9801543876,Accepted
+LD1686,Anita Rao,PolicyBazaar_Direct,18/10/24 17:43,43,Tamil Nadu,600020,9134317726,Rejected
+LD1405,Ritu Saxena,src_quality_tier_2,22/11/24 8:16,234,Maharashtra,400051,9501486939,Rejected
+LD1582,Amit Verma,PolicyBazaar_Direct,26/10/24 10:32,112.2,Uttar Pradesh,208001,9936382635,Pending
+LD1669,Aaa Bbb,MetaAds_Retarget,03/11/24 23:52,5.8,Rajasthan,302001,9213546818,Rejected
+LD1076,Preeti Malhotra,PolicyBazaar_Direct,12/09/24 8:47,79.9,Uttar Pradesh,208001,9349957310,Accepted
+LD1161,Swati Mishra,src_quality_tier_2,16/10/24 1:35,8,Rajasthan,302001,9398362082,Rejected
+LD1057,Vikram Sinha,GoogleAds_Search,20/10/24 11:54,52.2,Uttar Pradesh,282001,9647099690,Accepted
+LD1169,Pooja Iyer,src_quality_tier_2,29/09/24 17:28,124.7,Punjab,143001,9685582861,Rejected
+LD1555,Amit Verma,GoogleAds_Search,02/10/24 12:20,86,Tamil Nadu,641001,9596161798,Rejected
+LD1469,Sandeep Choudhary,src_quality_tier_2,26/09/24 15:18,152,Telangana,500072,9133729406,Rejected
+LD1654,Manoj Khanna,MetaAds_Retarget,01/10/24 14:20,196.2,Tamil Nadu,620001,9328267699,Accepted
+LD1154,Suresh Babu,GoogleAds_Search,18/10/24 9:25,169.1,Tamil Nadu,641001,9134126396,Accepted
+LD1607,Deepak Tiwari,GoogleAds_Search,08/11/24 10:24,124.2,Karnataka,560034,9867538273,Accepted
+LD1536,Preeti Malhotra,AffiliateNet_IN,17/11/24 1:14,11.9,Uttar Pradesh,700001,9369671339,Rejected
+LD1573,Vikas Yadav,AffiliateNet_IN,17/11/24 17:20,68.6,Delhi,110011,9562698901,Pending
+LD1528,Swati Mishra,PolicyBazaar_Direct,01/11/24 12:34,114.1,Rajasthan,313001,9140364641,Accepted
+LD1356,Rahul Sharma,src_quality_tier_2,02/11/24 13:55,160.5,Delhi,110011,9876693898,Rejected
+LD1181,Anita Rao,GoogleAds_Search,22/09/24 16:20,99.6,Punjab,144001,9488302652,Rejected
+LD1301,Manoj Khanna,PolicyBazaar_Direct,03/10/24 15:19,112.8,Uttar Pradesh,201301,9345938494,Accepted
+LD1067,Anjali Gupta,GoogleAds_Search,09/11/24 10:16,69.5,,400051,9219778234,Rejected
+LD1468,Test User,src_quality_tier_2,04/09/24 2:06,2.5,Karnataka,700001,9739830322,Rejected
+LD1229,Rajesh Pillai,GoogleAds_Search,02/09/24 21:50,183.9,Telangana,501301,9448059918,Accepted
+LD1358,Sunita Roy,MetaAds_Retarget,11/11/24 8:17,63.7,Uttar Pradesh,201301,9645119047,Accepted
+LD1443,Raj Kumar,src_quality_tier_2,28/11/24 2:57,9.9,Delhi,700001,9191969690,Rejected
+LD1254,Arjun Reddy,MetaAds_Retarget,18/09/24 8:42,68.5,Rajasthan,334001,9461415646,Accepted
+LD1175,Manoj Khanna,PolicyBazaar_Direct,20/10/24 16:26,60.2,Uttar Pradesh,208001,9865523129,Accepted
+LD1002,Manoj Khanna,PolicyBazaar_Direct,22/10/24 11:57,67,Maharashtra,420001,9922308461,Accepted
+LD1549,Vikram Sinha,GoogleAds_Search,28/10/24 18:06,173.3,Maharashtra,400051,9177727571,Rejected
+LD1677,Test User,src_quality_tier_2,09/12/24 3:42,8.9,Punjab,143001,9999999999,Rejected
+LD1044,Rajesh Pillai,MetaAds_Retarget,05/10/24 18:36,219.6,Delhi,110092,9382116655,Accepted
+LD1234,Vikram Sinha,PolicyBazaar_Direct,26/09/24 21:53,88.6,West Bengal,700001,9673528321,Accepted
+LD1420,Vikram Sinha,src_quality_tier_2,15/09/24 9:31,228.8,Tamil Nadu,600001,9966267851,Pending
+LD1476,Arjun Reddy,OrganicSEO,04/10/24 12:03,279,Uttar Pradesh,201301,9304451095,Accepted
+LD1326,Amit Verma,OrganicSEO,23/10/24 11:56,136.5,Tamil Nadu,600020,9918150683,Accepted
+LD1383,Shweta Pandey,OrganicSEO,13/09/24 21:52,197.6,,110011,9808402051,Accepted
+LD1637,Deepak Tiwari,AffiliateNet_IN,15/12/24 20:37,135.9,Uttar Pradesh,201301,9808991357,Pending
+LD1149,Swati Mishra,PolicyBazaar_Direct,11/10/24 15:58,119.5,Uttar Pradesh,226001,9149203558,Accepted
+LD1545,Ritu Saxena,OrganicSEO,30/10/24 15:11,200.1,West Bengal,711101,9284317263,Accepted
+LD1090,Nisha Chauhan,PolicyBazaar_Direct,25/09/24 15:14,64.5,Gujarat,380001,9112327652,Rejected
+LD1094,Rekha Nambiar,PolicyBazaar_Direct,05/10/24 10:28,,Uttar Pradesh,226001,9916690353,Rejected
+LD1630,Kavita Desai,MetaAds_Retarget,04/12/24 17:27,150,Uttar Pradesh,208001,9238662723,Accepted
+LD1429,Divya Nair,GoogleAds_Search,17/09/24 13:02,170,Gujarat,390001,9277303722,Accepted
+LD1699,Preeti Malhotra,PolicyBazaar_Direct,04/12/24 13:17,243.4,Punjab,160001,9906923689,Rejected
+LD1124,Divya Nair,src_quality_tier_2,08/09/24 15:45,157.3,Telangana,500072,9107721109,Pending
+LD1296,Nisha Chauhan,src_quality_tier_2,20/10/24 23:08,2.2,Telangana,501301,9481469012,Rejected
+LD1696,Deepak Tiwari,GoogleAds_Search,05/11/24 10:15,51.9,Uttar Pradesh,208001,9368135428,Pending
+LD1010,Meera Joshi,OrganicSEO,26/10/24 10:08,103.6,Maharashtra,411001,9870854579,Accepted
+LD1647,Karan Mehta,PolicyBazaar_Direct,21/11/24 14:23,205.2,Telangana,500072,9547575530,Accepted
+LD1128,Kavita Desai,MetaAds_Retarget,14/09/24 10:39,174.6,Tamil Nadu,600001,9134467368,Accepted
+LD1377,Amit Verma,OrganicSEO,06/09/24 14:21,167.9,Tamil Nadu,600001,9727694430,Accepted
+LD1403,Vikas Yadav,AffiliateNet_IN,02/09/24 12:47,179,Punjab,143001,9875340444,Rejected
+LD1208,Arun Bose,OrganicSEO,08/09/24 8:53,275.6,Delhi,110011,9872751234,Accepted
+LD1265,Suresh Babu,OrganicSEO,23/09/24 16:44,69.3,Delhi,110001,9168212356,Accepted
+LD1462,Sneha Patel,PolicyBazaar_Direct,08/11/24 20:00,50.2,Tamil Nadu,620001,9853573823,Accepted
+LD1426,Raj Kumar,src_quality_tier_2,07/09/24 1:41,4.9,Uttar Pradesh,110011,9000000000,Rejected
+LD1366,Pooja Iyer,src_quality_tier_2,06/09/24 19:35,156.6,Maharashtra,400051,9191969690,Pending
+LD1547,Manoj Khanna,MetaAds_Retarget,01/09/24 21:07,175.1,Tamil Nadu,600020,9540099464,Accepted
+LD1496,Preeti Malhotra,GoogleAds_Search,29/10/24 18:05,144.6,Rajasthan,334001,9214257751,Pending
+LD1581,Anjali Gupta,GoogleAds_Search,26/09/24 20:24,169.4,Gujarat,380001,9951062813,Pending
+LD1096,Sneha Patel,AffiliateNet_IN,11/09/24 8:01,80,Delhi,110092,9528853029,Accepted
+LD1517,Amit Verma,PolicyBazaar_Direct,14/10/24 11:39,218.9,Karnataka,560001,9656901540,Accepted
+LD1293,Rohit Kumar,GoogleAds_Search,15/09/24 19:30,147.1,Tamil Nadu,600020,9895285932,Accepted
+LD1402,Shweta Pandey,src_quality_tier_2,14/11/24 23:10,2.5,Gujarat,380001,9692749116,Rejected
+LD1483,Anjali Gupta,MetaAds_Retarget,18/09/24 21:15,170.6,Telangana,500001,9500957212,Rejected
+LD1140,Meera Joshi,MetaAds_Retarget,03/09/24 20:19,196.7,Telangana,501301,9345938494,Accepted
+LD1357,Priya Singh,GoogleAds_Search,21/09/24 19:01,199.5,Rajasthan,342001,9655742829,Accepted
+LD1183,Shweta Pandey,PolicyBazaar_Direct,12/09/24 20:25,216.2,Rajasthan,334001,9739830322,Accepted
+LD1203,Amit Verma,MetaAds_Retarget,06/09/24 9:58,253.8,Telangana,501301,9237859287,Rejected
+LD1079,Manoj Khanna,MetaAds_Retarget,03/10/24 20:18,55.6,West Bengal,734001,9990566476,Accepted
+LD1481,Vikas Yadav,OrganicSEO,11/11/24 15:27,190,Maharashtra,400051,9899925830,Accepted
+LD1073,Rajesh Pillai,src_quality_tier_2,16/10/24 14:55,265,Uttar Pradesh,226001,9271779360,Pending
+LD1077,Nikhil Agarwal,src_quality_tier_2,21/09/24 10:48,37.7,Karnataka,580001,9992994062,Rejected
+LD1500,Manoj Khanna,src_quality_tier_2,11/12/24 1:25,9.9,Gujarat,700001,9640253909,Rejected
+LD1314,Raj Kumar,src_quality_tier_2,18/11/24 23:21,3.8,Uttar Pradesh,110011,9918739736,Rejected
+LD1594,Swati Mishra,PolicyBazaar_Direct,19/12/24 21:07,69.9,Karnataka,590001,9902322773,Accepted
+LD1393,Pooja Iyer,OrganicSEO,24/11/24 18:03,80.5,Delhi,110001,9344703907,Accepted
+LD1480,Sneha Patel,GoogleAds_Search,21/11/24 9:13,130.2,Gujarat,390001,9964411347,Accepted
+LD1427,Raj Kumar,src_quality_tier_2,27/10/24 2:37,5.3,Tamil Nadu,641001,9509760584,Rejected
+LD1007,Sneha Patel,AffiliateNet_IN,07/11/24 18:00,233.4,Gujarat,380001,9253407200,Accepted
+LD1320,Rohit Kumar,AffiliateNet_IN,17/10/24 15:47,157.8,West Bengal,734001,9853573823,Rejected
+LD1368,Arun Bose,GoogleAds_Search,29/10/24 10:37,206.7,Tamil Nadu,620001,9437882805,Accepted
+LD1423,Deepak Tiwari,PolicyBazaar_Direct,24/10/24 12:44,227,West Bengal,700020,9174684276,Accepted
+LD1470,Pooja Iyer,MetaAds_Retarget,19/10/24 13:28,34.2,Delhi,110020,9528414718,Accepted
+LD1598,Amit Verma,AffiliateNet_IN,03/11/24 8:54,248.7,Rajasthan,313001,9815951395,Pending
+LD1554,Meera Joshi,GoogleAds_Search,23/09/24 20:10,206.1,Maharashtra,400001,9678348630,Accepted
+LD1577,Deepak Tiwari,GoogleAds_Search,21/10/24 20:59,197.4,Delhi,110001,9863340128,Accepted
+LD1412,Swati Mishra,PolicyBazaar_Direct,23/09/24 12:28,150.4,Tamil Nadu,620001,9528414718,Accepted
+LD1164,Arjun Reddy,OrganicSEO,18/09/24 17:19,178.8,Tamil Nadu,620001,9481469012,Rejected
+LD1137,Rahul Sharma,OrganicSEO,24/10/24 16:29,39.7,West Bengal,711101,9313579170,Accepted
+LD1317,Meera Joshi,src_quality_tier_2,13/10/24 15:16,116.9,Telangana,500072,9826600539,Rejected
+LD1475,Arun Bose,AffiliateNet_IN,04/11/24 15:51,195.2,Delhi,110020,9709194872,Accepted
+LD1218,Sneha Patel,AffiliateNet_IN,21/10/24 17:54,271.1,Maharashtra,400051,9448195935,Rejected
+LD1046,Meera Joshi,src_quality_tier_2,15/09/24 13:49,245.6,Maharashtra,420001,9797808098,Accepted
+LD1600,Sneha Patel,src_quality_tier_2,10/10/24 0:02,11.8,Punjab,560034,9500500978,Rejected
+LD1228,Swati Mishra,PolicyBazaar_Direct,26/10/24 18:12,184.9,Punjab,144001,9398704996,Accepted
+LD1176,Karan Mehta,PolicyBazaar_Direct,18/09/24 12:11,239.7,Punjab,141001,9395310485,Accepted
+LD1674,Anita Rao,AffiliateNet_IN,16/11/24 10:48,210,Gujarat,380001,9434383347,Rejected
+LD1618,Karan Mehta,PolicyBazaar_Direct,04/10/24 11:26,28.7,Gujarat,395001,9414638337,Accepted
+LD1364,Kavita Desai,GoogleAds_Search,27/09/24 11:04,261.4,West Bengal,734001,9237859287,Rejected
+LD1457,Raj Kumar,MetaAds_Retarget,04/11/24 2:14,3.9,Telangana,500001,9271432881,Rejected
+LD1200,Aaa Bbb,src_quality_tier_2,23/09/24 1:14,,Maharashtra,400001,9271779360,Rejected
+LD1347,Sneha Patel,GoogleAds_Search,19/10/24 17:05,39.3,Rajasthan,342001,9624636385,Rejected
+LD1490,Arjun Reddy,AffiliateNet_IN,22/11/24 18:11,138.1,Delhi,110001,9882893941,Rejected
+LD1112,Sunita Roy,GoogleAds_Search,06/10/24 16:08,102.2,Telangana,500001,9201281557,Accepted
+LD1506,Preeti Malhotra,PolicyBazaar_Direct,22/11/24 15:33,262.1,Tamil Nadu,620001,9752872139,Accepted
+LD1001,Amit Verma,src_quality_tier_2,30/10/24 12:15,260.4,West Bengal,700001,9133729406,Rejected
+LD1692,Anjali Gupta,GoogleAds_Search,05/11/24 18:40,54.5,Tamil Nadu,600001,9414638337,Accepted
+LD1606,Kavita Desai,AffiliateNet_IN,26/09/24 12:43,75.4,Gujarat,360001,9331738505,Pending
+LD1266,Manoj Khanna,AffiliateNet_IN,14/10/24 14:18,230.2,Delhi,110092,9355555531,Rejected
+LD1255,Shweta Pandey,MetaAds_Retarget,28/11/24 14:54,229,Delhi,110001,9550455977,Rejected
+LD1129,Amit Verma,AffiliateNet_IN,21/09/24 0:26,11.4,West Bengal,700001,9550455977,Rejected
+LD1504,Test User,AffiliateNet_IN,09/12/24 2:35,9,Telangana,110011,9574287460,Rejected
+LD1024,Ashok Bhatt,MetaAds_Retarget,19/10/24 0:30,11.4,Gujarat,360001,9652070932,Rejected
+LD1615,Rahul Sharma,GoogleAds_Search,15/10/24 18:55,256,Rajasthan,302001,9965212586,Accepted
+LD1287,Swati Mishra,PolicyBazaar_Direct,20/11/24 0:01,7.8,Uttar Pradesh,201301,9176082500,Rejected
+LD1308,Meera Joshi,OrganicSEO,04/09/24 17:30,90.7,,201301,9830661141,Accepted
+LD1325,Kavita Desai,PolicyBazaar_Direct,18/09/24 21:22,144.6,Maharashtra,420001,9197613238,Accepted
+LD1014,Deepak Tiwari,PolicyBazaar_Direct,14/11/24 10:16,52.6,Uttar Pradesh,282001,9709194872,Accepted
+LD1374,Kavita Desai,GoogleAds_Search,25/10/24 9:53,41.6,West Bengal,700020,9702764446,Accepted
+LD1659,Swati Mishra,PolicyBazaar_Direct,20/10/24 20:30,35.8,West Bengal,700020,9227469017,Accepted
+LD1530,Pooja Iyer,src_quality_tier_2,06/09/24 23:04,5.2,Telangana,560034,9108181695,Rejected
+LD1459,Priya Singh,PolicyBazaar_Direct,27/09/24 10:08,133.3,Karnataka,560001,9840739735,Pending
+LD1327,Divya Nair,OrganicSEO,28/11/24 20:43,97.6,Telangana,500072,9795822698,Pending
+LD1435,Sunita Roy,OrganicSEO,09/11/24 17:36,77.8,Karnataka,580001,9122585366,Rejected
+LD1216,Arjun Reddy,PolicyBazaar_Direct,15/09/24 10:54,244.5,Karnataka,580001,9203848421,Accepted
+LD1257,Manoj Khanna,PolicyBazaar_Direct,26/11/24 8:33,214.6,Punjab,143001,9694768704,Accepted
+LD1085,Anita Rao,src_quality_tier_2,05/09/24 15:03,237.1,Karnataka,560001,9610330567,Rejected
+LD1185,Rekha Nambiar,GoogleAds_Search,02/11/24 17:50,253,Maharashtra,400001,9808402051,Accepted
+LD1282,Vikram Sinha,PolicyBazaar_Direct,15/10/24 19:13,255.9,Telangana,500034,9853573823,Accepted
+LD1291,Meera Joshi,src_quality_tier_2,17/10/24 23:37,11,Karnataka,590001,9925276600,Rejected
+LD1548,Vikram Sinha,OrganicSEO,17/11/24 11:13,156.9,Maharashtra,400051,9635940550,Accepted
+LD1146,Nisha Chauhan,AffiliateNet_IN,18/10/24 21:05,209.8,Tamil Nadu,600001,9918150683,Rejected
+LD1456,Sandeep Choudhary,GoogleAds_Search,17/10/24 19:06,172.9,Delhi,110001,9694768704,Accepted
+LD1453,Vikram Sinha,PolicyBazaar_Direct,16/11/24 9:47,173.2,Punjab,160001,9327416584,Rejected
+LD1262,Anita Rao,src_quality_tier_2,28/10/24 19:07,218.6,Tamil Nadu,600001,9788227492,Rejected
+LD1081,Rajesh Pillai,PolicyBazaar_Direct,19/11/24 20:29,200.9,Rajasthan,302001,9748245888,Accepted
+LD1207,Swati Mishra,GoogleAds_Search,07/09/24 16:43,91.3,Delhi,110001,9671988889,Accepted
+LD1337,Sunita Roy,src_quality_tier_2,19/10/24 16:46,250.1,Punjab,144001,9168212356,Rejected
+LD1354,Pooja Iyer,src_quality_tier_2,01/11/24 16:39,278,Maharashtra,420001,9803771909,Accepted
+LD1562,Preeti Malhotra,MetaAds_Retarget,10/12/24 9:15,237.5,Telangana,500001,9845539206,Pending
+LD1000,Sneha Patel,src_quality_tier_2,07/09/24 15:43,276,Karnataka,560001,9830448745,Rejected
+LD1294,Preeti Malhotra,AffiliateNet_IN,19/09/24 0:03,4.6,Delhi,110092,9210053353,Rejected
+LD1227,Divya Nair,MetaAds_Retarget,31/10/24 11:19,125.7,Maharashtra,400051,9174316370,Accepted
+LD1408,Rahul Sharma,OrganicSEO,26/11/24 19:37,74.7,,313001,9355555531,Accepted
+LD1495,Vikas Yadav,PolicyBazaar_Direct,07/10/24 21:46,73.3,Delhi,110092,9734036506,Accepted
+LD1668,Anita Rao,MetaAds_Retarget,16/10/24 10:13,111.6,Uttar Pradesh,282001,9968951229,Accepted
+LD1170,Preeti Malhotra,PolicyBazaar_Direct,15/10/24 10:19,141.1,Tamil Nadu,620001,9327416584,Accepted
+LD1404,Nikhil Agarwal,PolicyBazaar_Direct,14/10/24 8:05,176.9,Delhi,110092,9214257751,Accepted
+LD1141,Priya Singh,MetaAds_Retarget,24/11/24 8:26,220.3,Maharashtra,400051,9398704996,Accepted
+LD1531,Rekha Nambiar,src_quality_tier_2,23/09/24 8:40,146.1,Uttar Pradesh,208001,9906923689,Accepted
+LD1338,Amit Verma,PolicyBazaar_Direct,10/11/24 20:09,97.2,Uttar Pradesh,282001,9199585092,Accepted
+LD1544,Rohit Kumar,src_quality_tier_2,11/11/24 18:40,177.1,Uttar Pradesh,282001,9778620616,Rejected
+LD1298,Sandeep Choudhary,GoogleAds_Search,19/10/24 20:22,230.2,Punjab,141001,9764130526,Accepted
+LD1473,Swati Mishra,GoogleAds_Search,01/10/24 11:41,176.1,Karnataka,580001,9112327652,Accepted
+LD1441,Nikhil Agarwal,PolicyBazaar_Direct,06/11/24 21:41,130,Rajasthan,342001,9860038427,Rejected
+LD1642,Rahul Sharma,src_quality_tier_2,08/10/24 16:35,183,Uttar Pradesh,226001,9327026799,Rejected
+LD1277,Rohit Kumar,PolicyBazaar_Direct,28/09/24 20:55,,Karnataka,560034,9106977991,Pending
+LD1685,Priya Singh,AffiliateNet_IN,07/11/24 15:23,131.2,Delhi,110092,9532312868,Rejected
+LD1609,Preeti Malhotra,OrganicSEO,06/09/24 21:07,71.5,Telangana,500072,9498333113,Rejected
+LD1027,Nisha Chauhan,src_quality_tier_2,15/10/24 8:14,42.5,Maharashtra,400001,9882893941,Rejected
+LD1349,Rohit Kumar,PolicyBazaar_Direct,28/10/24 14:48,171.7,Karnataka,560034,9488690725,Pending
+LD1578,John Doe,src_quality_tier_2,19/12/24 1:51,2.5,Delhi,560034,9769928629,Rejected
+LD1019,Rohit Kumar,PolicyBazaar_Direct,10/09/24 17:29,251,,143001,9797801251,Accepted
+LD1389,Ritu Saxena,MetaAds_Retarget,04/10/24 17:58,125,Rajasthan,342001,9865523129,Accepted
+LD1319,Arjun Reddy,MetaAds_Retarget,24/10/24 13:40,170.8,Karnataka,560001,9222998994,Accepted
+LD1032,Meera Joshi,MetaAds_Retarget,12/11/24 15:39,121.6,Maharashtra,420001,9386665249,Accepted
+LD1116,Raj Kumar,src_quality_tier_2,08/10/24 1:24,8.2,Tamil Nadu,600020,9950488739,Rejected
+LD1392,Test User,AffiliateNet_IN,02/11/24 0:07,8,Rajasthan,334001,9679153816,Rejected
+LD1465,Sunita Roy,OrganicSEO,18/10/24 18:11,279.7,West Bengal,700001,9184564737,Accepted
+LD1212,Ritu Saxena,GoogleAds_Search,20/10/24 13:17,31.6,Punjab,143001,9902099969,Accepted
+LD1184,Ritu Saxena,AffiliateNet_IN,29/11/24 18:22,41.1,Telangana,501301,9430190783,Rejected
+LD1572,Ritu Saxena,MetaAds_Retarget,02/11/24 20:09,235.9,Karnataka,560001,9417799464,Accepted
+LD1252,Amit Verma,AffiliateNet_IN,01/09/24 11:00,47.7,Karnataka,590001,9919795579,Rejected
+LD1397,Ashok Bhatt,PolicyBazaar_Direct,19/09/24 1:46,6.9,Uttar Pradesh,201301,9876543210,Rejected
+LD1249,Kavita Desai,GoogleAds_Search,08/11/24 20:39,176.5,Maharashtra,400001,9702632297,Pending
+LD1587,Vikas Yadav,OrganicSEO,26/09/24 10:31,110.9,West Bengal,700001,9731797387,Accepted
+LD1107,Shweta Pandey,GoogleAds_Search,26/09/24 15:07,242.5,West Bengal,700020,9266944844,Rejected
+LD1396,Rohit Kumar,AffiliateNet_IN,09/11/24 14:13,69.2,Delhi,110011,9415143362,Rejected
+LD1163,Arjun Reddy,AffiliateNet_IN,26/09/24 17:29,59.5,Maharashtra,420001,9291825997,Rejected
+LD1391,Arjun Reddy,src_quality_tier_2,10/11/24 2:10,5.8,Rajasthan,110011,9358633898,Rejected
+LD1602,Sunita Roy,src_quality_tier_2,29/09/24 19:41,193.8,Gujarat,380001,9915912190,Accepted
+LD1518,Amit Verma,GoogleAds_Search,08/12/24 14:35,189.4,Rajasthan,342001,9225856787,Accepted
+LD1492,Arun Bose,OrganicSEO,11/09/24 11:26,71.4,Uttar Pradesh,201301,9895285932,Rejected
+LD1438,Manoj Khanna,src_quality_tier_2,16/09/24 21:30,160.6,Telangana,500072,9103484630,Rejected
+LD1386,Ritu Saxena,GoogleAds_Search,07/10/24 10:36,68.7,Gujarat,395001,9313500298,Accepted
+LD1305,Preeti Malhotra,PolicyBazaar_Direct,23/11/24 2:00,2.9,Gujarat,395001,9882893941,Rejected
+LD1665,Swati Mishra,GoogleAds_Search,17/12/24 20:32,226.1,Telangana,500072,9535220095,Rejected
+LD1020,Shweta Pandey,OrganicSEO,25/10/24 9:14,230,Telangana,501301,9678998028,Accepted
+LD1444,Ritu Saxena,AffiliateNet_IN,18/10/24 10:28,273.7,Telangana,500072,9685582861,Accepted
+LD1499,Ashok Bhatt,PolicyBazaar_Direct,06/10/24 21:47,261.2,Gujarat,395001,9731691672,Accepted
+LD1508,Sunita Roy,GoogleAds_Search,16/09/24 12:31,229.4,Maharashtra,411001,9498333113,Rejected
+LD1620,Vikram Sinha,OrganicSEO,15/09/24 14:51,43.5,Gujarat,380001,9927390181,Pending
+LD1491,Rohit Kumar,GoogleAds_Search,23/11/24 20:48,241,Uttar Pradesh,282001,9679064766,Rejected
+LD1458,Sneha Patel,GoogleAds_Search,27/10/24 21:56,158.4,Rajasthan,313001,9734036506,Rejected
+LD1672,Rajesh Pillai,AffiliateNet_IN,13/11/24 16:19,103.6,Uttar Pradesh,226001,9743642838,Rejected
+LD1359,Sunita Roy,GoogleAds_Search,25/10/24 10:19,179.4,West Bengal,700020,9719927151,Accepted
+LD1415,John Doe,src_quality_tier_2,16/09/24 23:36,11.4,Rajasthan,560034,9000000000,Rejected
+LD1011,Arjun Reddy,GoogleAds_Search,01/10/24 10:55,273.9,Delhi,110092,9324956459,Rejected
+LD1016,Suresh Babu,OrganicSEO,04/11/24 12:19,129.1,Uttar Pradesh,282001,9754049436,Accepted
+LD1673,Deepak Tiwari,OrganicSEO,09/12/24 21:27,178,Rajasthan,334001,9439709088,Pending
+LD1593,Pooja Iyer,MetaAds_Retarget,09/10/24 12:54,116.3,Gujarat,390001,9389265203,Accepted
+LD1003,Ritu Saxena,src_quality_tier_2,25/09/24 10:18,272,Punjab,141001,9685126461,Accepted
+LD1509,Ashok Bhatt,PolicyBazaar_Direct,30/09/24 17:35,201.9,Maharashtra,411001,9271175729,Accepted
+LD1206,Shweta Pandey,GoogleAds_Search,10/10/24 15:29,242.4,Karnataka,560034,9349817734,Accepted
+LD1589,Vikram Sinha,src_quality_tier_2,12/10/24 8:01,139.1,Rajasthan,313001,9403107498,Accepted
+LD1280,Shweta Pandey,GoogleAds_Search,21/10/24 14:52,32.9,Delhi,110011,9645098869,Rejected
+LD1592,Rekha Nambiar,MetaAds_Retarget,29/09/24 16:46,203.1,Telangana,500034,9846249394,Pending
+LD1636,Vikas Yadav,PolicyBazaar_Direct,12/09/24 21:11,263.1,West Bengal,700001,9947711144,Accepted
+LD1576,John Doe,GoogleAds_Search,21/11/24 0:30,9.5,Uttar Pradesh,201301,9772137360,Rejected
+LD1351,Test User,src_quality_tier_2,26/10/24 3:20,11.2,Karnataka,560034,9176667861,Rejected
+LD1667,Vikram Sinha,PolicyBazaar_Direct,06/09/24 8:45,207.5,Tamil Nadu,620001,9552731736,Accepted
+LD1432,Swati Mishra,PolicyBazaar_Direct,04/11/24 20:02,160.4,West Bengal,700001,9797801251,Accepted
+LD1038,Sneha Patel,PolicyBazaar_Direct,10/09/24 15:36,200,Delhi,110011,9398362082,Rejected
+LD1680,Anita Rao,PolicyBazaar_Direct,19/09/24 12:28,30.4,Maharashtra,420001,9625354986,Pending
+LD1240,Rajesh Pillai,GoogleAds_Search,23/11/24 8:31,91.2,Uttar Pradesh,208001,9200604502,Accepted
+LD1247,Ritu Saxena,PolicyBazaar_Direct,29/10/24 12:46,177.1,Rajasthan,334001,9222998994,Rejected
+LD1454,Kavita Desai,src_quality_tier_2,14/11/24 10:03,106.5,Delhi,110020,9797808098,Accepted
+LD1078,Nisha Chauhan,src_quality_tier_2,07/10/24 9:43,176.2,Telangana,500072,9835098955,Pending
+LD1074,Vikram Sinha,src_quality_tier_2,11/11/24 13:23,219.5,Punjab,143001,9876693898,Rejected
+LD1316,Divya Nair,MetaAds_Retarget,08/11/24 16:46,225.3,Gujarat,395001,9264109919,Accepted
+LD1211,Meera Joshi,GoogleAds_Search,12/09/24 8:17,60,Tamil Nadu,600020,9645119047,Rejected
+LD1565,Divya Nair,PolicyBazaar_Direct,05/12/24 16:16,58.8,Delhi,110092,9134317726,Rejected
+LD1156,Rajesh Pillai,GoogleAds_Search,06/10/24 18:57,168.7,Maharashtra,400051,9890779946,Rejected
+LD1102,Amit Verma,src_quality_tier_2,20/10/24 15:21,151.5,West Bengal,711101,9465341213,Rejected
+LD1689,Suresh Babu,GoogleAds_Search,21/11/24 2:14,5.8,Uttar Pradesh,560034,9322886595,Rejected
+LD1570,Vikram Sinha,PolicyBazaar_Direct,30/11/24 11:18,168.5,Tamil Nadu,620001,9528863358,Accepted
+LD1563,Ashok Bhatt,src_quality_tier_2,30/10/24 19:34,263.1,West Bengal,700020,9950230769,Accepted
+LD1242,Rajesh Pillai,src_quality_tier_2,13/10/24 18:41,81.7,Tamil Nadu,641001,9668132202,Pending
+LD1613,Nikhil Agarwal,MetaAds_Retarget,12/11/24 11:23,141,Karnataka,560034,9294589339,Accepted
+LD1258,Ritu Saxena,AffiliateNet_IN,26/11/24 18:41,62.9,Telangana,500001,9349957310,Pending
+LD1446,Vikram Sinha,src_quality_tier_2,01/11/24 19:57,60.6,Telangana,500001,9685582861,Rejected
+LD1419,Sneha Patel,AffiliateNet_IN,06/09/24 17:15,190.4,Maharashtra,400051,9264112119,Rejected
+LD1328,Pooja Iyer,src_quality_tier_2,19/11/24 19:31,106.8,Delhi,110001,9833953718,Rejected
+LD1052,Manoj Khanna,OrganicSEO,02/09/24 15:46,129.5,Delhi,110001,9253407200,Accepted
+LD1098,Suresh Babu,PolicyBazaar_Direct,17/10/24 16:04,163.7,Telangana,500001,9666585408,Accepted
+LD1395,Manoj Khanna,PolicyBazaar_Direct,10/11/24 13:03,204.4,Rajasthan,302001,9553035110,Accepted
+LD1083,Sandeep Choudhary,PolicyBazaar_Direct,17/11/24 10:09,218.6,Karnataka,560034,9690347116,Pending
+LD1118,Swati Mishra,src_quality_tier_2,18/09/24 14:56,210.5,Uttar Pradesh,282001,9918739736,Accepted
+LD1343,Karan Mehta,MetaAds_Retarget,11/10/24 13:35,240.4,Uttar Pradesh,208001,9387484583,Pending
+LD1695,Divya Nair,AffiliateNet_IN,06/10/24 14:22,224.1,Karnataka,590001,9834294137,Pending
+LD1088,Pooja Iyer,AffiliateNet_IN,11/11/24 1:43,4.8,Punjab,144001,9856528252,Rejected
+LD1559,Deepak Tiwari,GoogleAds_Search,09/12/24 13:23,138.5,Punjab,141001,9509161680,Accepted
+LD1482,Kavita Desai,src_quality_tier_2,02/11/24 8:50,39.1,Karnataka,580001,9582334538,Rejected
+LD1489,Vikram Sinha,OrganicSEO,13/09/24 21:52,203.1,Telangana,500001,9220117054,Accepted
+LD1541,Rohit Kumar,OrganicSEO,20/11/24 19:11,169.5,Punjab,141001,9893746814,Accepted
+LD1663,Kavita Desai,AffiliateNet_IN,12/11/24 20:23,35.7,,501301,9832687937,Pending
+LD1375,Nisha Chauhan,AffiliateNet_IN,12/09/24 0:30,8.9,Gujarat,560034,9788227492,Rejected
+LD1566,Nikhil Agarwal,PolicyBazaar_Direct,18/11/24 11:32,50.9,West Bengal,700020,9299664370,Accepted
+LD1399,Deepak Tiwari,MetaAds_Retarget,05/09/24 8:36,204.7,Karnataka,590001,9856528252,Rejected
+LD1498,Vikas Yadav,MetaAds_Retarget,04/10/24 2:10,6.9,Rajasthan,313001,9860038427,Rejected
+LD1382,Ritu Saxena,PolicyBazaar_Direct,26/09/24 20:58,138.2,Maharashtra,420001,9176667861,Accepted
+LD1682,Karan Mehta,src_quality_tier_2,22/09/24 21:44,257.9,West Bengal,734001,9489265181,Rejected
+LD1246,Suresh Babu,AffiliateNet_IN,07/11/24 13:12,197.6,Tamil Nadu,600020,9271779360,Accepted
+LD1484,Vikas Yadav,GoogleAds_Search,20/10/24 19:51,214.7,Uttar Pradesh,201301,9748245888,Accepted
+LD1471,Rajesh Pillai,PolicyBazaar_Direct,10/11/24 18:43,170.9,West Bengal,700020,9645098869,Accepted
+LD1436,Sneha Patel,GoogleAds_Search,17/10/24 8:23,190.3,Karnataka,560034,9694021782,Accepted
+LD1324,Kavita Desai,MetaAds_Retarget,21/11/24 18:34,256.8,West Bengal,700020,9885879795,Accepted
+LD1106,Manoj Khanna,GoogleAds_Search,15/09/24 11:01,72.4,Telangana,501301,9592688426,Rejected
+LD1045,Suresh Babu,MetaAds_Retarget,13/10/24 14:20,51.7,Delhi,110020,9797801251,Accepted
+LD1619,Rekha Nambiar,GoogleAds_Search,16/12/24 15:10,265.3,Rajasthan,334001,9769928629,Accepted
+LD1191,Karan Mehta,GoogleAds_Search,17/11/24 19:18,265,Maharashtra,411001,9694768704,Accepted
+LD1279,Anita Rao,AffiliateNet_IN,19/11/24 18:04,215.2,Maharashtra,400001,9584779555,Accepted
+LD1534,Test User,AffiliateNet_IN,04/09/24 3:57,4.3,Karnataka,560034,9625354986,Rejected
+LD1447,Nikhil Agarwal,GoogleAds_Search,14/11/24 11:33,224.2,Gujarat,390001,9465341213,Accepted
+LD1226,Kavita Desai,PolicyBazaar_Direct,11/09/24 9:42,231.1,Uttar Pradesh,201301,9420452650,Pending
+LD1522,Vikram Sinha,PolicyBazaar_Direct,27/09/24 11:42,278.3,Maharashtra,420001,9454010198,Pending
+LD1304,Deepak Tiwari,PolicyBazaar_Direct,26/09/24 8:54,262.3,Telangana,500072,9131994523,Pending
+LD1222,Karan Mehta,MetaAds_Retarget,04/09/24 19:27,67.1,Uttar Pradesh,201301,9203848421,Accepted
+LD1126,Swati Mishra,GoogleAds_Search,28/11/24 11:45,105.8,Rajasthan,342001,9506448196,Accepted
+LD1694,Anita Rao,MetaAds_Retarget,07/09/24 14:23,235.3,West Bengal,734001,9111970604,Rejected
+LD1034,Kavita Desai,src_quality_tier_2,08/10/24 9:14,201.4,Gujarat,395001,9621209849,Rejected
+LD1479,Sandeep Choudhary,OrganicSEO,20/11/24 17:03,76.2,West Bengal,700020,9930075810,Accepted
+LD1442,Divya Nair,MetaAds_Retarget,04/10/24 20:14,119.8,Gujarat,380001,9925276600,Accepted
+LD1100,Anita Rao,OrganicSEO,01/11/24 19:40,231.9,Karnataka,590001,9248532577,Accepted
+LD1039,Nisha Chauhan,src_quality_tier_2,06/11/24 20:24,256.7,Gujarat,360001,9360916298,Rejected
+LD1062,Arun Bose,AffiliateNet_IN,21/11/24 14:23,197.1,West Bengal,700001,9448195935,Rejected
+LD1108,Anita Rao,AffiliateNet_IN,09/10/24 12:54,206.5,Delhi,110020,9506448196,Rejected
+LD1523,Shweta Pandey,PolicyBazaar_Direct,17/12/24 12:11,131.8,Karnataka,560001,9893415185,Accepted
+LD1033,Anjali Gupta,MetaAds_Retarget,11/11/24 12:00,266.8,Karnataka,560034,9434702822,Pending
+LD1664,Amit Verma,GoogleAds_Search,03/11/24 18:59,247.6,Maharashtra,420001,9846249394,Accepted
+LD1017,Karan Mehta,AffiliateNet_IN,01/09/24 16:19,78.6,Punjab,144001,9885879795,Pending
+LD1614,Sunita Roy,AffiliateNet_IN,24/10/24 15:24,95.2,Telangana,500001,9708720353,Accepted
+LD1329,Priya Singh,AffiliateNet_IN,02/09/24 10:31,112.2,Gujarat,360001,9690347116,Rejected
+LD1318,Pooja Iyer,PolicyBazaar_Direct,08/11/24 18:11,97.6,Rajasthan,334001,9849621470,Accepted
+LD1372,Test User,AffiliateNet_IN,06/10/24 0:39,7.6,Tamil Nadu,700001,9200604502,Rejected
+LD1087,Sunita Roy,GoogleAds_Search,07/11/24 15:33,65.5,Rajasthan,342001,9669462919,Rejected
+LD1174,Arjun Reddy,AffiliateNet_IN,21/10/24 17:37,113.7,West Bengal,700020,9398362082,Rejected
+LD1628,Nisha Chauhan,src_quality_tier_2,21/09/24 8:14,191.2,Punjab,144001,9965840373,Rejected
+LD1023,Kavita Desai,PolicyBazaar_Direct,28/09/24 10:04,128.9,Telangana,501301,9336696312,Accepted
+LD1460,Karan Mehta,AffiliateNet_IN,16/09/24 15:58,36,Gujarat,380001,9184611066,Rejected
+LD1461,Sandeep Choudhary,AffiliateNet_IN,06/10/24 2:37,,Telangana,500034,9507943839,Rejected
+LD1571,Ashok Bhatt,MetaAds_Retarget,27/09/24 10:37,46.3,Delhi,110092,9920118560,Pending
+LD1658,Nikhil Agarwal,PolicyBazaar_Direct,04/10/24 8:42,207.6,Uttar Pradesh,282001,9570101183,Rejected
+LD1040,Manoj Khanna,OrganicSEO,24/11/24 12:05,86.2,Telangana,500001,9219540831,Accepted
+LD1533,Swati Mishra,OrganicSEO,24/11/24 19:50,243.6,Maharashtra,411001,9417799464,Accepted
+LD1237,Shweta Pandey,PolicyBazaar_Direct,23/09/24 18:38,27.2,Gujarat,395001,9489747629,Rejected
+LD1583,Test User,AffiliateNet_IN,13/12/24 1:02,5.5,Maharashtra,560034,9999999999,Rejected
+LD1390,Anita Rao,OrganicSEO,17/11/24 13:36,154.5,Uttar Pradesh,226001,9330035022,Accepted
+LD1042,Manoj Khanna,PolicyBazaar_Direct,10/10/24 20:38,235.2,Gujarat,360001,9384602384,Accepted
+LD1160,Divya Nair,PolicyBazaar_Direct,14/09/24 13:05,265.5,West Bengal,711101,9485451171,Accepted
+LD1053,Rekha Nambiar,GoogleAds_Search,19/10/24 16:20,208.3,West Bengal,700001,9964411347,Pending
+LD1511,Anjali Gupta,MetaAds_Retarget,26/10/24 20:09,262.8,Maharashtra,420001,9708720353,Accepted
+LD1220,Anita Rao,PolicyBazaar_Direct,27/10/24 23:46,11.7,Uttar Pradesh,560034,9203848421,Rejected
+LD1309,Ashok Bhatt,OrganicSEO,22/10/24 9:43,234.4,Karnataka,560034,9950488739,Accepted
+LD1348,Arjun Reddy,AffiliateNet_IN,21/11/24 8:49,122.5,Gujarat,380001,9133729406,Rejected
+LD1204,Rekha Nambiar,AffiliateNet_IN,12/11/24 17:03,193.9,Delhi,110011,9790256940,Rejected
+LD1451,Pooja Iyer,PolicyBazaar_Direct,18/09/24 17:12,237.2,Gujarat,360001,9911514914,Pending
+LD1213,Shweta Pandey,MetaAds_Retarget,02/10/24 9:42,93,Maharashtra,400051,9788227492,Rejected
+LD1662,Deepak Tiwari,AffiliateNet_IN,06/11/24 20:41,105.3,Gujarat,395001,9672566520,Accepted
+LD1604,Nisha Chauhan,PolicyBazaar_Direct,12/10/24 21:01,102,Punjab,160001,9982965198,Rejected
+LD1641,Anita Rao,PolicyBazaar_Direct,13/11/24 10:11,226.8,Punjab,160001,9804971990,Accepted
+LD1507,Divya Nair,PolicyBazaar_Direct,22/09/24 21:49,120.1,,302001,9369671339,Accepted
+LD1123,Rohit Kumar,OrganicSEO,02/10/24 18:02,266.8,Karnataka,560034,9191969690,Accepted
+LD1091,Anjali Gupta,PolicyBazaar_Direct,19/11/24 20:51,67.2,West Bengal,700001,9269820594,Accepted
+LD1219,Manoj Khanna,AffiliateNet_IN,22/09/24 13:40,270.6,Rajasthan,334001,9253407200,Accepted
+LD1339,Raj Kumar,PolicyBazaar_Direct,02/11/24 1:12,2.3,Uttar Pradesh,282001,9106977991,Rejected
+LD1151,Sunita Roy,AffiliateNet_IN,09/11/24 10:31,258.8,,500001,9965241839,Rejected
+LD1195,Amit Verma,PolicyBazaar_Direct,21/11/24 17:48,190.7,Karnataka,580001,9530747414,Accepted
+LD1244,Divya Nair,MetaAds_Retarget,29/10/24 17:09,244.9,Delhi,110001,9369953851,Pending
+LD1267,Swati Mishra,PolicyBazaar_Direct,08/10/24 19:43,259.9,Delhi,110011,9593303705,Pending
+LD1004,Nisha Chauhan,PolicyBazaar_Direct,24/09/24 9:04,42.3,Tamil Nadu,620001,9360916298,Accepted
+LD1539,Ashok Bhatt,GoogleAds_Search,01/09/24 15:35,221.4,Maharashtra,411001,9253450117,Rejected
+LD1171,Swati Mishra,GoogleAds_Search,03/09/24 9:54,190.2,Delhi,110011,9818309417,Accepted
+LD1086,Amit Verma,MetaAds_Retarget,12/10/24 11:38,152.8,Maharashtra,420001,9222998994,Rejected
+LD1464,Kavita Desai,AffiliateNet_IN,15/09/24 23:24,6.6,Gujarat,360001,9488690725,Rejected
+LD1269,Sneha Patel,OrganicSEO,03/10/24 18:09,40.8,Gujarat,390001,9219778234,Pending
+LD1675,Deepak Tiwari,GoogleAds_Search,28/11/24 14:47,182.5,West Bengal,700020,9312686669,Accepted
+LD1311,Ritu Saxena,OrganicSEO,26/11/24 9:42,181.5,Telangana,500001,9872751234,Accepted
+LD1424,Anjali Gupta,PolicyBazaar_Direct,24/09/24 17:45,181.1,Karnataka,580001,9120912992,Accepted
+LD1028,Rahul Sharma,AffiliateNet_IN,30/10/24 11:44,220.6,Delhi,110001,9271779360,Accepted
+LD1379,Arjun Reddy,PolicyBazaar_Direct,08/11/24 21:57,142.9,,226001,9718702544,Pending
+LD1330,Aaa Bbb,MetaAds_Retarget,10/09/24 23:34,3.8,Gujarat,380001,9870854579,Rejected
+LD1643,Vikram Sinha,PolicyBazaar_Direct,28/10/24 1:54,6.1,Punjab,700001,9999999999,Rejected
+LD1113,Arun Bose,GoogleAds_Search,04/09/24 8:05,266.9,Punjab,144001,9942478695,Accepted
+LD1177,Sandeep Choudhary,src_quality_tier_2,02/11/24 18:26,239.2,West Bengal,700020,9718702544,Accepted
+LD1591,Anita Rao,AffiliateNet_IN,14/11/24 15:26,90.2,Tamil Nadu,620001,9552162517,Pending
+LD1105,Amit Verma,PolicyBazaar_Direct,17/10/24 13:24,33.3,Delhi,110092,9872751234,Accepted
+LD1048,Anjali Gupta,MetaAds_Retarget,16/09/24 15:41,64.3,Gujarat,395001,9840739735,Rejected
+LD1158,Nikhil Agarwal,MetaAds_Retarget,30/09/24 23:53,5.4,Punjab,160001,9876543210,Rejected
+LD1400,Swati Mishra,OrganicSEO,06/11/24 9:56,47.6,West Bengal,700001,9797808098,Rejected
+LD1681,Nisha Chauhan,PolicyBazaar_Direct,08/10/24 19:46,73.3,Gujarat,395001,9982989938,Accepted
+LD1679,Deepak Tiwari,PolicyBazaar_Direct,02/09/24 12:32,236.7,Delhi,110092,9192962935,Accepted
+LD1421,Vikas Yadav,GoogleAds_Search,09/11/24 17:08,238.3,Tamil Nadu,600001,9694021782,Accepted
+LD1111,Deepak Tiwari,src_quality_tier_2,16/09/24 21:33,102.6,Delhi,110020,9676567501,Rejected
+LD1652,Meera Joshi,src_quality_tier_2,22/09/24 14:02,244.3,Punjab,141001,9314829375,Accepted
+LD1616,Sneha Patel,MetaAds_Retarget,23/11/24 14:51,245.2,Tamil Nadu,641001,9708720353,Accepted
+LD1243,Priya Singh,src_quality_tier_2,14/11/24 17:39,145.4,Tamil Nadu,600001,9860038427,Pending
+LD1289,Sandeep Choudhary,MetaAds_Retarget,05/11/24 20:08,65.6,Punjab,143001,9219778234,Accepted
+LD1376,Anita Rao,AffiliateNet_IN,18/11/24 10:14,99.1,Tamil Nadu,600001,9685582861,Pending
+LD1084,Anita Rao,MetaAds_Retarget,12/10/24 17:55,105.6,West Bengal,700001,9885879795,Pending
+LD1363,Rahul Sharma,src_quality_tier_2,20/10/24 10:31,60.1,Tamil Nadu,600020,9669462919,Rejected
+LD1503,Sneha Patel,PolicyBazaar_Direct,11/11/24 11:48,65.4,West Bengal,700001,9936382635,Pending
+LD1066,Rohit Kumar,GoogleAds_Search,12/11/24 20:13,236.6,Telangana,500034,9134467368,Accepted
+LD1698,Anita Rao,GoogleAds_Search,06/11/24 21:04,126.6,Punjab,141001,9801543876,Accepted
+LD1142,Preeti Malhotra,MetaAds_Retarget,22/10/24 8:28,162.6,Maharashtra,400051,9134467368,Rejected
+LD1150,Arun Bose,GoogleAds_Search,30/09/24 13:24,237.5,West Bengal,711101,9434702822,Rejected
+LD1550,Amit Verma,AffiliateNet_IN,10/12/24 12:41,190.3,Maharashtra,420001,9256241727,Pending
+LD1047,Test User,src_quality_tier_2,10/11/24 3:08,4.9,West Bengal,110011,9208449460,Rejected
+LD1012,Rekha Nambiar,AffiliateNet_IN,05/10/24 11:10,203.8,Uttar Pradesh,226001,9448195935,Accepted
+LD1101,Arjun Reddy,MetaAds_Retarget,09/11/24 21:30,34.3,Tamil Nadu,641001,9702632297,Rejected
+LD1601,Priya Singh,OrganicSEO,17/12/24 11:08,40.3,West Bengal,700001,9625354986,Rejected
+LD1264,Preeti Malhotra,GoogleAds_Search,26/11/24 21:37,221.9,West Bengal,734001,9570406376,Accepted
+LD1621,Ritu Saxena,src_quality_tier_2,17/12/24 17:49,79.2,Telangana,500001,9332671596,Rejected
+LD1437,Vikas Yadav,OrganicSEO,27/09/24 19:48,219,Rajasthan,342001,9584779555,Accepted
+LD1134,Pooja Iyer,GoogleAds_Search,08/09/24 11:42,143.7,Delhi,110092,9675770529,Pending
+LD1043,Sunita Roy,src_quality_tier_2,06/09/24 17:56,212.3,Punjab,144001,9919795579,Accepted
+LD1342,Deepak Tiwari,AffiliateNet_IN,16/10/24 17:43,204.2,Uttar Pradesh,226001,9819595113,Pending
+LD1190,Rohit Kumar,GoogleAds_Search,28/09/24 21:05,50.6,Karnataka,590001,9430190783,Accepted
+LD1617,Vikram Sinha,src_quality_tier_2,14/12/24 17:46,269.1,Rajasthan,302001,9174814722,Accepted
+LD1493,Meera Joshi,PolicyBazaar_Direct,29/11/24 12:54,37.7,Punjab,160001,9344703907,Accepted
+LD1635,Sneha Patel,PolicyBazaar_Direct,08/09/24 11:17,75.6,Gujarat,390001,9368135428,Accepted
+LD1410,Nikhil Agarwal,MetaAds_Retarget,16/09/24 19:05,179.2,Uttar Pradesh,201301,9853573823,Accepted
+LD1069,Nikhil Agarwal,MetaAds_Retarget,22/11/24 15:01,279.6,Uttar Pradesh,208001,9528414718,Rejected
+LD1430,Ritu Saxena,GoogleAds_Search,21/11/24 20:39,68.3,Telangana,500034,9100614068,Rejected
+LD1136,Ritu Saxena,src_quality_tier_2,04/11/24 0:12,7.4,Delhi,110011,9999999999,Rejected
+LD1678,Sunita Roy,PolicyBazaar_Direct,10/09/24 9:39,59.1,Gujarat,395001,9950230769,Accepted
+LD1532,Rohit Kumar,PolicyBazaar_Direct,01/09/24 9:23,104.9,Tamil Nadu,600001,9488375204,Accepted
+LD1199,Preeti Malhotra,PolicyBazaar_Direct,10/11/24 8:51,207.1,Uttar Pradesh,201301,9870854579,Accepted
+LD1250,Ashok Bhatt,GoogleAds_Search,28/11/24 11:43,27.4,Uttar Pradesh,226001,9719927151,Accepted
+LD1608,Kavita Desai,GoogleAds_Search,08/10/24 9:14,,Tamil Nadu,620001,9821877182,Rejected
+LD1054,Priya Singh,PolicyBazaar_Direct,21/11/24 20:45,50.6,Delhi,110020,9128492780,Accepted
+LD1015,Rekha Nambiar,PolicyBazaar_Direct,01/09/24 14:33,230.7,Tamil Nadu,641001,9969119330,Rejected
+LD1535,Arun Bose,PolicyBazaar_Direct,09/12/24 13:47,274.2,Karnataka,560001,9243070080,Accepted
+LD1215,Shweta Pandey,GoogleAds_Search,01/11/24 16:00,259.1,Tamil Nadu,600020,9481469012,Rejected
+LD1148,John Doe,src_quality_tier_2,27/09/24 0:25,4.4,Rajasthan,334001,9219778234,Rejected
+LD1064,Karan Mehta,AffiliateNet_IN,20/09/24 17:56,192,West Bengal,734001,9134126396,Rejected
+LD1515,Manoj Khanna,GoogleAds_Search,02/09/24 12:36,100.3,Rajasthan,302001,9801543876,Accepted
+LD1299,Manoj Khanna,GoogleAds_Search,03/10/24 14:12,205.8,Maharashtra,400001,9637500247,Pending
+LD1281,Nisha Chauhan,PolicyBazaar_Direct,22/11/24 20:23,166.1,Telangana,500034,9642621108,Accepted
+LD1307,Sandeep Choudhary,src_quality_tier_2,08/10/24 16:21,229.8,Gujarat,395001,9918150683,Rejected
+LD1638,John Doe,src_quality_tier_2,19/12/24 3:30,9.2,Delhi,110011,9673773156,Rejected
+LD1168,Sneha Patel,PolicyBazaar_Direct,25/11/24 18:22,190,Maharashtra,420001,9357109965,Accepted
+LD1525,Amit Verma,src_quality_tier_2,24/09/24 18:29,63,Rajasthan,313001,9873872838,Rejected
+LD1310,Anjali Gupta,AffiliateNet_IN,03/11/24 11:47,84.9,Tamil Nadu,641001,9345938494,Accepted
+LD1061,Swati Mishra,MetaAds_Retarget,10/09/24 15:09,271.5,Uttar Pradesh,282001,9313579170,Accepted
+LD1417,Anita Rao,PolicyBazaar_Direct,15/11/24 19:15,124.1,Telangana,500072,9163215224,Rejected
+LD1639,Vikas Yadav,PolicyBazaar_Direct,01/12/24 18:10,225.8,Tamil Nadu,620001,9921457170,Rejected
+LD1466,Kavita Desai,GoogleAds_Search,22/09/24 9:04,273.7,Rajasthan,313001,9506448196,Accepted
+LD1611,Sandeep Choudhary,OrganicSEO,28/11/24 8:18,,Gujarat,380001,9927390181,Rejected
+LD1295,Preeti Malhotra,PolicyBazaar_Direct,01/11/24 15:10,236.7,Punjab,143001,9168747287,Accepted
+LD1553,Rahul Sharma,GoogleAds_Search,19/12/24 11:15,238.6,Telangana,500072,9556791494,Rejected
+LD1516,Anjali Gupta,src_quality_tier_2,16/10/24 8:14,180.1,Uttar Pradesh,226001,9498333113,Rejected
+LD1263,Raj Kumar,AffiliateNet_IN,03/11/24 2:08,9.2,Uttar Pradesh,110011,9876543210,Rejected
+LD1021,Ritu Saxena,src_quality_tier_2,16/11/24 16:20,252.3,Punjab,160001,9208449460,Rejected
+LD1323,Nisha Chauhan,MetaAds_Retarget,30/10/24 15:55,263.4,Telangana,501301,9133729406,Accepted
+LD1387,Manoj Khanna,GoogleAds_Search,23/09/24 14:45,252.3,West Bengal,711101,9369953851,Rejected
+LD1273,Anita Rao,AffiliateNet_IN,02/11/24 12:50,165.3,Karnataka,580001,9853573823,Pending
+LD1157,Manoj Khanna,OrganicSEO,21/09/24 12:36,169.5,Uttar Pradesh,282001,9306468299,Pending
+LD1526,Pooja Iyer,PolicyBazaar_Direct,14/11/24 23:50,2.1,Karnataka,700001,9999999999,Rejected
+LD1697,Preeti Malhotra,MetaAds_Retarget,24/09/24 14:31,257.2,Tamil Nadu,600020,9220615733,Accepted
+LD1557,Manoj Khanna,MetaAds_Retarget,06/12/24 11:18,34.5,Tamil Nadu,641001,9533864350,Accepted
+LD1103,Priya Singh,PolicyBazaar_Direct,11/09/24 9:20,100.4,West Bengal,734001,9621828280,Accepted
+LD1248,Meera Joshi,MetaAds_Retarget,03/09/24 14:14,210.4,Delhi,110011,9229927269,Accepted
+LD1186,Vikas Yadav,PolicyBazaar_Direct,28/11/24 11:58,249.9,Gujarat,390001,9461415646,Accepted
+LD1092,Nikhil Agarwal,OrganicSEO,08/11/24 11:15,271.2,West Bengal,700020,9942478695,Rejected
+LD1574,Karan Mehta,GoogleAds_Search,28/09/24 8:31,197.9,Maharashtra,420001,9701696140,Accepted
+LD1230,Rajesh Pillai,MetaAds_Retarget,13/09/24 17:50,246.2,Rajasthan,334001,9214257751,Pending
+LD1597,Ashok Bhatt,GoogleAds_Search,25/09/24 9:33,187.2,Uttar Pradesh,201301,9111970604,Accepted
+LD1256,Sneha Patel,src_quality_tier_2,27/10/24 18:11,121.8,Rajasthan,302001,9840739735,Rejected
+LD1172,Manoj Khanna,OrganicSEO,21/11/24 10:42,125.9,Punjab,143001,9430190783,Accepted
+LD1179,Shweta Pandey,OrganicSEO,09/11/24 15:13,51.1,Tamil Nadu,641001,9916690353,Accepted
+LD1031,Anjali Gupta,PolicyBazaar_Direct,05/10/24 18:39,259.5,West Bengal,734001,9249926919,Accepted
+LD1579,Ritu Saxena,src_quality_tier_2,16/11/24 11:55,152.1,Delhi,110011,9897807502,Pending
+LD1097,Nisha Chauhan,OrganicSEO,03/11/24 9:38,29.2,Telangana,500034,9335493870,Accepted
+LD1297,Shweta Pandey,src_quality_tier_2,01/11/24 9:42,255,Telangana,500001,9731832764,Rejected
+LD1214,Divya Nair,GoogleAds_Search,15/11/24 13:01,203.6,Punjab,143001,9821218382,Accepted
+LD1110,Divya Nair,GoogleAds_Search,11/10/24 10:41,139.7,Telangana,500072,9818309417,Pending
+LD1030,Vikram Sinha,src_quality_tier_2,22/11/24 16:21,241.6,West Bengal,700001,9566825638,Rejected
+LD1448,Kavita Desai,MetaAds_Retarget,11/10/24 15:38,155.4,Maharashtra,411001,9810026086,Rejected
+LD1341,Divya Nair,MetaAds_Retarget,13/09/24 9:46,160.6,Tamil Nadu,600020,9360916298,Pending
+LD1487,Sandeep Choudhary,PolicyBazaar_Direct,27/10/24 21:24,257,Uttar Pradesh,282001,9919795579,Rejected
+LD1449,Preeti Malhotra,GoogleAds_Search,11/11/24 15:05,210.6,West Bengal,734001,9528853029,Accepted
+LD1099,Arjun Reddy,PolicyBazaar_Direct,01/10/24 13:46,185.2,Punjab,144001,9746412689,Accepted
+LD1235,Vikas Yadav,MetaAds_Retarget,18/10/24 11:31,138.8,West Bengal,711101,9398471886,Rejected
+LD1627,Swati Mishra,src_quality_tier_2,15/09/24 11:00,268.7,Karnataka,580001,9383367486,Pending
+LD1313,Meera Joshi,PolicyBazaar_Direct,06/11/24 19:29,200.7,Maharashtra,400051,9201281557,Accepted
+LD1588,Kavita Desai,AffiliateNet_IN,07/09/24 17:04,228.1,Punjab,144001,9509161680,Accepted
+LD1182,Vikas Yadav,GoogleAds_Search,17/09/24 19:15,206.4,Tamil Nadu,620001,9856528252,Accepted
+LD1684,Sunita Roy,AffiliateNet_IN,11/10/24 1:11,4.7,Uttar Pradesh,208001,9927663415,Rejected
+LD1683,Rajesh Pillai,MetaAds_Retarget,20/10/24 14:36,207.6,Uttar Pradesh,201301,9496453898,Accepted
+LD1623,Anita Rao,MetaAds_Retarget,10/12/24 10:46,49.5,West Bengal,700001,9101387774,Rejected
+LD1303,Nisha Chauhan,src_quality_tier_2,18/10/24 2:05,2.4,Uttar Pradesh,208001,9726563708,Rejected
+LD1431,Ashok Bhatt,src_quality_tier_2,25/10/24 8:47,,Rajasthan,334001,9344703907,Rejected
+LD1605,Sandeep Choudhary,PolicyBazaar_Direct,21/11/24 13:38,27.6,Maharashtra,400051,9528531261,Accepted
+LD1413,Rohit Kumar,AffiliateNet_IN,04/10/24 19:06,43.6,,144001,9210053353,Rejected
+LD1560,Preeti Malhotra,GoogleAds_Search,15/12/24 18:19,35.9,Tamil Nadu,600020,9942749427,Accepted
+LD1450,Kavita Desai,MetaAds_Retarget,16/11/24 17:05,78,West Bengal,711101,9637500247,Accepted
+LD1631,Aaa Bbb,src_quality_tier_2,26/10/24 23:59,10.6,Rajasthan,313001,9772137360,Rejected
+LD1292,Nisha Chauhan,AffiliateNet_IN,27/10/24 10:10,44.7,Gujarat,390001,9833953718,Accepted
+LD1371,Ritu Saxena,PolicyBazaar_Direct,29/10/24 8:31,152.2,Maharashtra,420001,9335809993,Accepted
+LD1276,Sandeep Choudhary,OrganicSEO,05/11/24 20:28,36.2,,641001,9199585092,Accepted
+LD1173,Sunita Roy,AffiliateNet_IN,14/09/24 17:51,161.9,Rajasthan,342001,9237859287,Accepted
+LD1035,Ritu Saxena,GoogleAds_Search,03/10/24 12:14,208.9,Rajasthan,302001,9754049436,Accepted
+LD1485,Manoj Khanna,src_quality_tier_2,29/11/24 13:07,164.2,West Bengal,700020,9149203558,Pending
+LD1551,Sunita Roy,PolicyBazaar_Direct,28/11/24 13:58,204.7,Delhi,110020,9824020624,Accepted
+LD1634,Anita Rao,GoogleAds_Search,15/10/24 21:20,269.1,Telangana,500034,9708720353,Accepted
+LD1144,Suresh Babu,MetaAds_Retarget,11/11/24 14:31,272.9,Uttar Pradesh,282001,9669462919,Accepted
+LD1502,Rohit Kumar,OrganicSEO,03/12/24 18:00,198.6,Gujarat,380001,9806755577,Accepted
+LD1009,Manoj Khanna,GoogleAds_Search,21/09/24 12:47,165.7,Uttar Pradesh,226001,9965241839,Rejected
+LD1585,Swati Mishra,src_quality_tier_2,10/09/24 14:13,237.4,Punjab,160001,9801543876,Rejected
+LD1434,Arjun Reddy,MetaAds_Retarget,22/10/24 10:11,247.2,West Bengal,700001,9771410971,Rejected
+LD1095,Ritu Saxena,src_quality_tier_2,18/10/24 1:14,5.2,Karnataka,580001,9876543210,Rejected
+LD1260,Vikram Sinha,MetaAds_Retarget,03/11/24 9:47,29.5,Uttar Pradesh,208001,9678998028,Accepted
+LD1373,Priya Singh,GoogleAds_Search,14/09/24 8:26,66.1,Gujarat,390001,9304451095,Accepted
+LD1315,Rahul Sharma,AffiliateNet_IN,05/10/24 19:51,166.6,Uttar Pradesh,201301,9344703907,Pending
+LD1416,Ashok Bhatt,OrganicSEO,10/11/24 10:02,193.5,Gujarat,360001,9219778234,Accepted
+LD1361,Sneha Patel,MetaAds_Retarget,11/10/24 20:56,270.1,Gujarat,360001,9930075810,Rejected
+LD1649,Karan Mehta,OrganicSEO,02/12/24 18:56,49.4,Karnataka,590001,9535220095,Accepted
+LD1165,Swati Mishra,src_quality_tier_2,12/10/24 11:24,233.2,Uttar Pradesh,282001,9713152854,Accepted
+LD1477,Vikas Yadav,src_quality_tier_2,10/09/24 13:41,102,Gujarat,360001,9882893941,Rejected
+LD1194,Deepak Tiwari,GoogleAds_Search,24/10/24 20:27,127.6,Telangana,500034,9465341213,Accepted
+LD1378,Anita Rao,GoogleAds_Search,14/10/24 3:25,7.7,Maharashtra,400051,9910959828,Rejected
+LD1501,Nikhil Agarwal,GoogleAds_Search,19/10/24 19:11,257.7,West Bengal,734001,9463790962,Accepted
+LD1025,Sunita Roy,src_quality_tier_2,25/11/24 3:43,,Delhi,110011,9753876785,Rejected
+LD1075,Rohit Kumar,src_quality_tier_2,28/11/24 18:17,71,Gujarat,395001,9896233790,Accepted
+LD1524,Shweta Pandey,GoogleAds_Search,17/11/24 19:53,89,Uttar Pradesh,201301,9538350634,Accepted
+LD1089,Rahul Sharma,GoogleAds_Search,10/10/24 9:35,189.1,Rajasthan,313001,9489747629,Accepted
+LD1231,Ashok Bhatt,GoogleAds_Search,27/11/24 17:44,34.9,Rajasthan,313001,9327416584,Rejected
+LD1120,Rohit Kumar,GoogleAds_Search,05/11/24 17:25,35.3,Maharashtra,400051,9554340903,Accepted
+LD1225,Anjali Gupta,PolicyBazaar_Direct,18/10/24 10:56,119.2,West Bengal,700001,9191969690,Accepted
+LD1065,Nisha Chauhan,MetaAds_Retarget,09/11/24 3:57,5.6,Uttar Pradesh,700001,9999999999,Rejected
+LD1632,Deepak Tiwari,src_quality_tier_2,11/11/24 2:28,3.1,Maharashtra,560034,9408704700,Rejected
+LD1552,Amit Verma,AffiliateNet_IN,20/10/24 12:10,236.1,Gujarat,380001,9348288412,Accepted
+LD1584,Meera Joshi,AffiliateNet_IN,09/10/24 9:32,255.4,West Bengal,700020,9950230769,Rejected
+LD1439,Manoj Khanna,PolicyBazaar_Direct,12/09/24 15:05,254,Gujarat,380001,9586845604,Accepted
+LD1365,Ashok Bhatt,AffiliateNet_IN,21/10/24 13:39,170.8,Telangana,500001,9671988889,Pending
+LD1520,Karan Mehta,OrganicSEO,27/10/24 19:27,262,Rajasthan,313001,9408930863,Accepted
+LD1512,Raj Kumar,MetaAds_Retarget,21/09/24 0:14,7.7,Tamil Nadu,600001,9253450117,Rejected
+LD1270,Priya Singh,src_quality_tier_2,20/10/24 0:15,,Gujarat,380001,9950488739,Rejected
+LD1300,Kavita Desai,PolicyBazaar_Direct,03/10/24 17:16,161.7,Punjab,144001,9264109919,Pending
+LD1332,Rajesh Pillai,AffiliateNet_IN,25/11/24 8:13,85.2,Uttar Pradesh,282001,9782560971,Rejected
+LD1656,Aaa Bbb,AffiliateNet_IN,28/11/24 23:35,10.1,Maharashtra,400001,9834294137,Rejected
+LD1624,Amit Verma,PolicyBazaar_Direct,25/11/24 8:15,132.3,Telangana,500001,9174814722,Accepted
+LD1127,Karan Mehta,OrganicSEO,19/09/24 20:18,98.3,Karnataka,580001,9636045484,Accepted
+LD1192,Rohit Kumar,PolicyBazaar_Direct,03/11/24 11:24,86.5,Punjab,141001,9415143362,Rejected
+LD1145,Suresh Babu,GoogleAds_Search,19/09/24 21:51,258.3,Telangana,501301,9678998028,Accepted
+LD1690,Priya Singh,src_quality_tier_2,04/09/24 15:44,159,Rajasthan,302001,9134317726,Rejected
+LD1018,Anjali Gupta,MetaAds_Retarget,11/09/24 18:18,194.3,Punjab,144001,9964411347,Rejected
+LD1202,Kavita Desai,AffiliateNet_IN,13/10/24 8:00,192.6,Gujarat,380001,9860038427,Rejected
+LD1180,Vikram Sinha,MetaAds_Retarget,27/09/24 11:51,174.9,Rajasthan,334001,9306468299,Rejected
+LD1455,Arjun Reddy,PolicyBazaar_Direct,10/09/24 18:32,220.4,Delhi,110001,9176082500,Accepted
+LD1394,Nisha Chauhan,PolicyBazaar_Direct,09/10/24 13:36,257.9,Gujarat,360001,9331191390,Accepted
+LD1335,Swati Mishra,OrganicSEO,03/09/24 11:44,116.3,Delhi,110020,9315984311,Accepted
+LD1196,Raj Kumar,AffiliateNet_IN,16/09/24 2:00,3.4,Maharashtra,560034,9524806516,Rejected
+LD1133,Pooja Iyer,PolicyBazaar_Direct,12/10/24 15:59,26.7,Uttar Pradesh,201301,9384412919,Rejected
+LD1285,Preeti Malhotra,src_quality_tier_2,22/09/24 14:00,87.8,Tamil Nadu,620001,9415143362,Accepted
+LD1494,Ritu Saxena,PolicyBazaar_Direct,29/10/24 20:52,151,Tamil Nadu,600020,9384412919,Accepted
+LD1093,Sneha Patel,src_quality_tier_2,26/09/24 10:51,60.3,Gujarat,380001,9872751234,Rejected
+LD1197,Priya Singh,AffiliateNet_IN,13/10/24 1:51,4.7,Karnataka,110011,9876543210,Rejected
+LD1321,Deepak Tiwari,MetaAds_Retarget,27/09/24 9:10,51.3,Karnataka,590001,9193349856,Rejected
+LD1603,Ashok Bhatt,AffiliateNet_IN,15/11/24 23:43,3.8,Karnataka,560034,9189083535,Rejected
+LD1130,Shweta Pandey,AffiliateNet_IN,23/09/24 8:26,238.6,Maharashtra,420001,9833953718,Rejected
+LD1198,Ritu Saxena,GoogleAds_Search,13/11/24 9:43,54.4,Telangana,500001,9339670711,Accepted
+LD1645,Manoj Khanna,AffiliateNet_IN,30/11/24 9:29,173.2,Telangana,500034,9291987535,Pending
+LD1060,Ritu Saxena,GoogleAds_Search,17/09/24 11:50,248.5,Rajasthan,342001,9636045484,Rejected
+LD1355,Arun Bose,GoogleAds_Search,09/09/24 8:24,94.2,Rajasthan,302001,9335493870,Rejected
+LD1271,Sunita Roy,AffiliateNet_IN,27/10/24 21:53,257.4,Rajasthan,313001,9248532577,Pending
+LD1290,John Doe,GoogleAds_Search,06/11/24 2:58,5.6,West Bengal,700001,9513140753,Rejected
+LD1422,Amit Verma,AffiliateNet_IN,02/10/24 15:59,,Karnataka,590001,9890779946,Rejected
+LD1625,Pooja Iyer,src_quality_tier_2,01/10/24 15:52,81.3,Rajasthan,313001,9921457170,Rejected
+LD1245,Suresh Babu,src_quality_tier_2,13/11/24 2:48,,Karnataka,560034,9430190783,Rejected
+LD1409,Nisha Chauhan,PolicyBazaar_Direct,15/10/24 15:14,97.2,Tamil Nadu,600001,9461415646,Accepted
+LD1640,Swati Mishra,PolicyBazaar_Direct,21/09/24 10:07,176.6,Delhi,110020,9500500978,Accepted
+LD1595,Arjun Reddy,OrganicSEO,08/09/24 9:20,158.2,Punjab,144001,9702332368,Accepted
+LD1370,Sneha Patel,MetaAds_Retarget,23/09/24 10:49,38.1,Gujarat,395001,9528853029,Pending
+LD1115,Arjun Reddy,PolicyBazaar_Direct,11/10/24 13:46,113.1,Uttar Pradesh,201301,9122585366,Accepted
+LD1334,Swati Mishra,MetaAds_Retarget,16/10/24 8:41,203.8,Karnataka,560034,9134467368,Accepted
+LD1353,Karan Mehta,GoogleAds_Search,07/10/24 10:00,201.9,Karnataka,580001,9751325257,Accepted
+LD1340,Preeti Malhotra,OrganicSEO,08/09/24 18:23,214.6,Uttar Pradesh,282001,9384412919,Accepted
+LD1452,Rekha Nambiar,GoogleAds_Search,04/10/24 10:19,237.7,West Bengal,700001,9624636385,Accepted
+LD1346,Vikram Sinha,src_quality_tier_2,12/09/24 3:36,7.7,Tamil Nadu,641001,9000000000,Rejected
+LD1344,Anjali Gupta,AffiliateNet_IN,28/10/24 15:25,210.2,Gujarat,380001,9911514914,Accepted
+LD1275,Preeti Malhotra,src_quality_tier_2,19/11/24 17:15,199.1,Rajasthan,334001,9771410971,Accepted
+LD1596,Vikram Sinha,PolicyBazaar_Direct,10/11/24 11:12,185.3,Delhi,110011,9139795203,Accepted
+LD1580,Preeti Malhotra,AffiliateNet_IN,19/09/24 17:03,159.7,Uttar Pradesh,201301,9256241727,Rejected
+LD1238,Ritu Saxena,src_quality_tier_2,19/11/24 21:25,51.1,Telangana,500072,9629908599,Rejected
+LD1209,Aaa Bbb,MetaAds_Retarget,26/09/24 1:57,6.4,Delhi,560034,9876543210,Rejected
+LD1138,Rohit Kumar,PolicyBazaar_Direct,09/11/24 9:03,253,West Bengal,700001,9669462919,Accepted
+LD1488,Ritu Saxena,MetaAds_Retarget,11/10/24 18:56,220.5,Uttar Pradesh,226001,9553778756,Rejected
+LD1398,Anjali Gupta,src_quality_tier_2,25/10/24 0:35,6.5,Rajasthan,560034,9876543210,Rejected
+LD1352,Shweta Pandey,GoogleAds_Search,27/10/24 20:39,137.3,Tamil Nadu,600020,9185675980,Rejected
+LD1272,John Doe,AffiliateNet_IN,25/10/24 1:17,4.6,Delhi,110020,9185675980,Rejected
+LD1121,Vikram Sinha,GoogleAds_Search,21/10/24 10:39,,Punjab,144001,9713152854,Accepted
+LD1567,Vikas Yadav,PolicyBazaar_Direct,04/09/24 20:33,96.5,Rajasthan,302001,9331738505,Accepted
+LD1167,Anita Rao,src_quality_tier_2,16/11/24 15:30,127.2,Telangana,501301,9415143362,Rejected
+LD1362,Ritu Saxena,MetaAds_Retarget,12/11/24 17:39,177.1,Tamil Nadu,600001,9849621470,Rejected
+LD1055,Rohit Kumar,PolicyBazaar_Direct,27/11/24 17:50,68.3,Karnataka,590001,9500957212,Rejected
+LD1676,Priya Singh,GoogleAds_Search,11/12/24 18:01,144.3,West Bengal,700001,9824020624,Rejected
+LD1143,Swati Mishra,OrganicSEO,09/10/24 11:56,276.4,Telangana,500034,9197613238,Accepted
+LD1210,Nisha Chauhan,PolicyBazaar_Direct,16/10/24 10:13,72.7,Gujarat,360001,9131994523,Accepted
+LD1590,Rajesh Pillai,GoogleAds_Search,07/09/24 13:00,45.9,Punjab,141001,9454010198,Accepted
+LD1063,Nikhil Agarwal,GoogleAds_Search,06/09/24 10:02,279,Karnataka,560001,9172370545,Accepted
+LD1152,Swati Mishra,PolicyBazaar_Direct,20/09/24 9:00,154,,302001,9865523129,Accepted
+LD1205,Nikhil Agarwal,AffiliateNet_IN,30/09/24 12:04,59.7,Punjab,141001,9748245888,Accepted
+LD1187,Deepak Tiwari,AffiliateNet_IN,29/11/24 3:48,6.3,,560001,9774996843,Rejected
+LD1369,Rekha Nambiar,AffiliateNet_IN,28/10/24 1:40,2.9,Uttar Pradesh,201301,9746412689,Rejected
+LD1622,Swati Mishra,src_quality_tier_2,27/11/24 17:17,220.2,Karnataka,560001,9544599129,Pending
+LD1166,Anjali Gupta,PolicyBazaar_Direct,27/09/24 19:28,99.3,Karnataka,590001,9306468299,Accepted
+LD1221,Ashok Bhatt,AffiliateNet_IN,05/09/24 1:18,5.2,Karnataka,700001,9999999999,Rejected
+LD1610,Anjali Gupta,src_quality_tier_2,25/10/24 2:06,11.3,West Bengal,110011,9756060163,Rejected
+LD1041,Arun Bose,GoogleAds_Search,29/10/24 19:04,84.5,Gujarat,390001,9883543540,Accepted
+LD1058,Nisha Chauhan,src_quality_tier_2,07/09/24 19:58,215,Gujarat,390001,9835098955,Rejected
+LD1071,Sneha Patel,AffiliateNet_IN,28/09/24 16:27,251.5,Uttar Pradesh,282001,9501486939,Accepted
+LD1568,Kavita Desai,OrganicSEO,24/09/24 17:34,74.6,Maharashtra,400001,9318790375,Accepted
+LD1068,Nisha Chauhan,GoogleAds_Search,07/11/24 14:07,41.2,West Bengal,711101,9671988889,Accepted
+LD1117,Vikram Sinha,src_quality_tier_2,12/09/24 1:25,6.6,Tamil Nadu,560034,9876543210,Rejected
+LD1514,Rekha Nambiar,PolicyBazaar_Direct,12/11/24 20:21,73.2,Maharashtra,400001,9832687937,Accepted
+LD1026,Vikram Sinha,PolicyBazaar_Direct,04/10/24 8:24,79,Rajasthan,342001,9382116655,Pending
+LD1080,Arun Bose,AffiliateNet_IN,06/09/24 14:27,142.2,Karnataka,580001,9607850824,Accepted
+LD1407,Vikas Yadav,PolicyBazaar_Direct,16/10/24 18:54,180.7,Gujarat,395001,9384412919,Pending
+LD1029,Rajesh Pillai,MetaAds_Retarget,26/09/24 19:04,201.1,Tamil Nadu,600001,9234031070,Rejected
+LD1268,Sunita Roy,AffiliateNet_IN,08/11/24 19:18,241.1,Maharashtra,400001,9645119047,Accepted
+LD1660,Suresh Babu,src_quality_tier_2,08/09/24 8:39,93.5,Telangana,500001,9192362080,Rejected
+LD1440,Arun Bose,PolicyBazaar_Direct,08/10/24 8:26,,Delhi,110092,9220117054,Accepted
+LD1302,Vikram Sinha,src_quality_tier_2,10/11/24 20:39,199.6,Maharashtra,400051,9126855092,Rejected
+LD1162,Amit Verma,src_quality_tier_2,22/09/24 23:08,5,West Bengal,700001,9876543210,Rejected
+LD1050,Manoj Khanna,AffiliateNet_IN,08/11/24 15:30,109.8,Telangana,501301,9168212356,Rejected
+LD1070,Sneha Patel,AffiliateNet_IN,19/11/24 3:40,7.5,Rajasthan,110011,9000000000,Rejected
+LD1036,Priya Singh,OrganicSEO,25/09/24 9:18,117,Gujarat,380001,9702764446,Accepted
+LD1529,Swati Mishra,MetaAds_Retarget,06/11/24 18:38,208.2,,110020,9576866812,Rejected
+LD1401,Nisha Chauhan,src_quality_tier_2,13/10/24 19:26,269.9,Gujarat,395001,9200604502,Rejected
+LD1543,Preeti Malhotra,GoogleAds_Search,23/10/24 19:14,45.6,Maharashtra,400001,9805627252,Accepted
+LD1445,Anita Rao,MetaAds_Retarget,09/11/24 19:32,190,Gujarat,360001,9607850824,Pending
+LD1188,Meera Joshi,AffiliateNet_IN,25/10/24 21:44,146.8,Tamil Nadu,620001,9485451171,Accepted
+LD1688,Swati Mishra,OrganicSEO,30/10/24 18:27,38.5,Tamil Nadu,641001,9902322773,Pending
+LD1155,Shweta Pandey,AffiliateNet_IN,03/11/24 9:54,189.5,Rajasthan,302001,9345938494,Accepted
+LD1486,Manoj Khanna,AffiliateNet_IN,24/11/24 8:51,201.1,Tamil Nadu,641001,9773715057,Rejected
+LD1612,Preeti Malhotra,MetaAds_Retarget,04/12/24 11:52,142.1,Tamil Nadu,620001,9186775979,Accepted
+LD1648,Amit Verma,MetaAds_Retarget,28/11/24 9:40,237.9,Delhi,110001,9501557731,Pending
+LD1633,Arun Bose,PolicyBazaar_Direct,09/09/24 12:37,217.8,Rajasthan,342001,9538408208,Accepted
+LD1233,Sandeep Choudhary,AffiliateNet_IN,23/10/24 2:47,9.6,Rajasthan,313001,9366186631,Rejected
+LD1671,Deepak Tiwari,GoogleAds_Search,04/11/24 10:57,146.8,Delhi,110001,9238662723,Accepted
+LD1006,Aaa Bbb,MetaAds_Retarget,12/11/24 0:06,7.4,Telangana,560034,9875340444,Rejected
+LD1135,Deepak Tiwari,MetaAds_Retarget,17/11/24 15:23,204,West Bengal,700020,9553778756,Accepted
+LD1513,Manoj Khanna,PolicyBazaar_Direct,04/11/24 20:58,241.9,Karnataka,560034,9903778356,Accepted
+LD1385,Swati Mishra,PolicyBazaar_Direct,27/10/24 13:42,94.5,Delhi,110020,9249827706,Rejected
+LD1657,Raj Kumar,MetaAds_Retarget,06/10/24 0:09,3.7,Telangana,501301,9876543210,Rejected
+LD1072,Swati Mishra,GoogleAds_Search,31/10/24 18:04,237.1,Karnataka,590001,9872751234,Rejected
+LD1241,Rohit Kumar,AffiliateNet_IN,31/10/24 18:58,116.4,Gujarat,390001,9248532577,Accepted
+LD1556,Nikhil Agarwal,AffiliateNet_IN,02/11/24 13:24,60.6,Punjab,143001,9748836906,Rejected
+LD1232,Arjun Reddy,OrganicSEO,02/11/24 21:54,199.6,Tamil Nadu,600020,9885879795,Accepted
+LD1540,Swati Mishra,PolicyBazaar_Direct,03/10/24 12:20,116.4,Delhi,110020,9187145047,Accepted
+LD1360,Preeti Malhotra,GoogleAds_Search,18/09/24 16:27,273.8,Delhi,110011,9398704996,Accepted
+LD1425,Rohit Kumar,MetaAds_Retarget,09/11/24 21:32,143.4,Tamil Nadu,641001,9781802744,Accepted
+LD1049,Pooja Iyer,PolicyBazaar_Direct,18/09/24 19:55,95.4,Uttar Pradesh,282001,9219540831,Accepted
+LD1147,Preeti Malhotra,OrganicSEO,11/11/24 18:13,78.3,Rajasthan,342001,9787194506,Rejected
+LD1178,Vikram Sinha,GoogleAds_Search,29/10/24 20:36,222,West Bengal,700001,9249926919,Rejected
+LD1666,Rekha Nambiar,src_quality_tier_2,27/11/24 2:36,8.1,Punjab,160001,9508830029,Rejected
+LD1284,Pooja Iyer,PolicyBazaar_Direct,07/10/24 9:39,254.5,Rajasthan,334001,9602564736,Accepted
+LD1693,Rajesh Pillai,src_quality_tier_2,14/09/24 9:36,95.2,Tamil Nadu,641001,9869529290,Rejected
+LD1223,Kavita Desai,MetaAds_Retarget,07/10/24 18:19,49.5,Uttar Pradesh,208001,9797808098,Accepted
+LD1082,Vikram Sinha,MetaAds_Retarget,13/10/24 11:49,44.5,Karnataka,560034,9386501362,Rejected
+LD1561,Arun Bose,PolicyBazaar_Direct,05/12/24 14:13,33.6,West Bengal,700001,9376570743,Accepted
+LD1131,Karan Mehta,PolicyBazaar_Direct,13/10/24 9:18,277.2,Telangana,501301,9229927269,Accepted
+LD1236,Shweta Pandey,GoogleAds_Search,13/11/24 10:49,243.6,Tamil Nadu,600020,9669462919,Accepted
+LD1406,Arjun Reddy,src_quality_tier_2,20/10/24 19:30,62,Uttar Pradesh,226001,9174316370,Pending
+LD1380,Rajesh Pillai,src_quality_tier_2,16/10/24 20:04,96.5,Maharashtra,411001,9163215224,Rejected
+LD1510,Divya Nair,GoogleAds_Search,22/11/24 2:16,10.4,Karnataka,110011,9272670524,Rejected
+LD1546,Sneha Patel,AffiliateNet_IN,02/11/24 13:00,136.2,Rajasthan,302001,9238662723,Rejected
+LD1586,Karan Mehta,OrganicSEO,16/11/24 9:00,179.5,Karnataka,560034,9279701068,Accepted
+LD1005,Pooja Iyer,AffiliateNet_IN,04/10/24 13:13,207.6,Tamil Nadu,641001,9774996843,Rejected
+LD1388,Manoj Khanna,PolicyBazaar_Direct,30/10/24 20:36,48.7,West Bengal,700001,9773715057,Accepted
+LD1505,Anita Rao,GoogleAds_Search,01/12/24 20:14,180.1,Punjab,143001,9946447971,Rejected
+LD1478,Arun Bose,OrganicSEO,20/11/24 8:45,245,Punjab,160001,9384602384,Accepted
+LD1224,Ritu Saxena,AffiliateNet_IN,04/09/24 9:13,187.7,Karnataka,590001,9264112119,Rejected
+LD1013,Vikram Sinha,OrganicSEO,24/11/24 8:12,108.7,Karnataka,580001,9341266931,Accepted
+LD1114,Divya Nair,src_quality_tier_2,01/11/24 12:15,230.9,Uttar Pradesh,282001,9914763202,Rejected
+LD1519,Sneha Patel,GoogleAds_Search,19/11/24 12:39,79.2,West Bengal,700001,9189083535,Rejected
+LD1119,Anita Rao,PolicyBazaar_Direct,10/11/24 20:17,277.2,Punjab,141001,9199585092,Accepted
+LD1542,Arun Bose,src_quality_tier_2,13/10/24 14:49,160.7,Rajasthan,313001,9603626844,Accepted
+LD1104,Sunita Roy,AffiliateNet_IN,08/09/24 18:04,187.6,Rajasthan,313001,9174684276,Rejected
+LD1056,Pooja Iyer,src_quality_tier_2,30/10/24 20:57,197.8,Delhi,110001,9831980933,Rejected
+LD1336,Pooja Iyer,PolicyBazaar_Direct,12/10/24 13:46,95.2,Punjab,143001,9860038427,Accepted
+LD1538,Suresh Babu,OrganicSEO,08/11/24 13:53,194.9,Gujarat,390001,9858340961,Pending
+LD1433,Shweta Pandey,GoogleAds_Search,08/10/24 13:15,279.7,Maharashtra,420001,9508157429,Pending
+LD1253,Arjun Reddy,GoogleAds_Search,04/10/24 12:29,50.5,Delhi,110001,9415143362,Rejected
+LD1159,Rohit Kumar,MetaAds_Retarget,14/11/24 18:42,46.9,Punjab,144001,9914763202,Accepted
+LD1575,Arun Bose,MetaAds_Retarget,25/09/24 8:14,88.3,Uttar Pradesh,201301,9893016403,Accepted
+LD1521,Sunita Roy,src_quality_tier_2,11/09/24 17:44,37.1,Karnataka,560034,9945266599,Rejected
+LD1286,Preeti Malhotra,src_quality_tier_2,10/11/24 15:06,189.6,Karnataka,580001,9172370545,Accepted
+LD1122,Deepak Tiwari,PolicyBazaar_Direct,28/11/24 12:40,177.2,Gujarat,390001,9204078666,Accepted
+LD1626,Sandeep Choudhary,MetaAds_Retarget,19/12/24 15:39,154.1,Maharashtra,400001,9122138150,Accepted
+LD1278,Suresh Babu,PolicyBazaar_Direct,03/10/24 10:35,171.6,,641001,9420452650,Accepted
+LD1381,Pooja Iyer,PolicyBazaar_Direct,11/10/24 12:45,94.2,Karnataka,590001,9872751234,Accepted
+LD1497,Aaa Bbb,src_quality_tier_2,31/10/24 2:58,12,Punjab,141001,9000000000,Rejected
+LD1331,Swati Mishra,PolicyBazaar_Direct,06/11/24 9:42,145.6,Gujarat,395001,9642621108,Pending
+LD1239,Anita Rao,AffiliateNet_IN,23/11/24 12:45,191.1,Tamil Nadu,600020,9685126461,Rejected
+LD1251,Priya Singh,PolicyBazaar_Direct,03/11/24 9:12,75.9,Gujarat,390001,9669462919,Accepted
+LD1474,Rajesh Pillai,MetaAds_Retarget,05/10/24 14:01,144.8,Maharashtra,411001,9942478695,Accepted
+LD1537,Ashok Bhatt,AffiliateNet_IN,21/10/24 17:54,264.2,West Bengal,700020,9547506547,Accepted
+LD1322,Divya Nair,GoogleAds_Search,20/10/24 18:19,,Gujarat,360001,9774996843,Accepted
+LD1629,Shweta Pandey,GoogleAds_Search,04/11/24 12:51,97.8,Gujarat,360001,9921457170,Accepted
+LD1653,Nisha Chauhan,MetaAds_Retarget,27/11/24 17:25,91.7,Maharashtra,400001,9864016853,Pending
+LD1384,Arun Bose,MetaAds_Retarget,12/09/24 17:21,251.7,Karnataka,580001,9537077308,Rejected
+LD1414,Preeti Malhotra,PolicyBazaar_Direct,29/11/24 10:21,124.8,Maharashtra,420001,9709194872,Accepted
+LD1564,Meera Joshi,GoogleAds_Search,07/11/24 10:37,218.9,Gujarat,380001,9375106124,Accepted
+LD1274,Arun Bose,src_quality_tier_2,28/09/24 2:42,,Gujarat,110011,9876693898,Rejected
+LD1051,Rajesh Pillai,MetaAds_Retarget,31/10/24 13:45,231.9,Uttar Pradesh,201301,9200604502,Accepted
+LD1467,Sandeep Choudhary,AffiliateNet_IN,22/11/24 12:25,146.3,Punjab,160001,9168747287,Accepted
