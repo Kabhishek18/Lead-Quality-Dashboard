@@ -64,6 +64,16 @@ That page means **GitHub has not published a site yet** (or the last deploy fail
 
 To trigger a deploy without code changes: **Actions → Deploy to GitHub Pages → Run workflow**.
 
+### Build succeeds but **deploy** fails (common fix)
+
+The workflow requests `pages: write` on `GITHUB_TOKEN`. If the repository is set to **read-only** token access, the deploy step fails in a few seconds.
+
+1. Go to **Settings → Actions → General**.
+2. Under **Workflow permissions**, choose **Read and write permissions**.
+3. Save, then re-run the failed workflow (**Actions → failed run → Re-run all jobs**).
+
+Also ensure **Settings → Pages → Source** is **GitHub Actions** (not “Deploy from a branch”).
+
 ## Stack
 
 Vite, React, TypeScript, Papa Parse, Recharts.
