@@ -46,9 +46,21 @@ Bundled at [`public/leads_dataset.csv`](public/leads_dataset.csv) (copy of the a
 
 ## Deploy (GitHub Pages)
 
+**Order matters.** The **deploy** step talks to GitHub’s Pages API. If Pages is not turned on for this repo, the deploy job fails with **`Failed to create deployment (status: 404)`** and *“Ensure GitHub Pages has been enabled”* — even when the **build** job is green and the `github-pages` artifact exists.
+
+### First-time setup
+
+1. Open the repo on GitHub → **Settings** (top bar) → **Pages** (left sidebar).
+2. Under **Build and deployment**, set **Source** to **GitHub Actions** (not “Deploy from a branch”, not “None”). Save if prompted.
+3. Still under **Settings** → **Actions** → **General** → **Workflow permissions** → choose **Read and write permissions** → **Save**.
+4. Go to **Actions**, open **Deploy to GitHub Pages**, and **Re-run** the latest workflow (or push a commit).
+
+After a green run, the site URL appears on the **Pages** settings screen and at `https://<user>.github.io/<repo>/`.
+
+### Ongoing deploys
+
 1. Push to [the repo](https://github.com/Kabhishek18/Lead-Quality-Dashboard).
-2. **Settings → Pages → Build and deployment:** set **Source** to **GitHub Actions**.
-3. The workflow [`.github/workflows/deploy-pages.yml`](.github/workflows/deploy-pages.yml) builds with `VITE_BASE=/<repo>/` and deploys the `dist` folder.
+2. The workflow [`.github/workflows/deploy-pages.yml`](.github/workflows/deploy-pages.yml) builds with `VITE_BASE=/<repo>/` and deploys the `dist` folder.
 
 If your default branch is not `main` or `master`, edit the workflow `on.push.branches` list.
 
@@ -64,15 +76,14 @@ That page means **GitHub has not published a site yet** (or the last deploy fail
 
 To trigger a deploy without code changes: **Actions → Deploy to GitHub Pages → Run workflow**.
 
-### Build succeeds but **deploy** fails (common fix)
+### Build succeeds but **deploy** fails with 404
 
-The workflow requests `pages: write` on `GITHUB_TOKEN`. If the repository is set to **read-only** token access, the deploy step fails in a few seconds.
+| Symptom | Fix |
+|--------|-----|
+| `Failed to create deployment (status: 404)` / *Ensure GitHub Pages has been enabled* | **Settings → Pages → Source → GitHub Actions** (see [First-time setup](#first-time-setup)). |
+| Permission / `Resource not accessible` | **Settings → Actions → General → Workflow permissions → Read and write** → Save → re-run workflow. |
 
-1. Go to **Settings → Actions → General**.
-2. Under **Workflow permissions**, choose **Read and write permissions**.
-3. Save, then re-run the failed workflow (**Actions → failed run → Re-run all jobs**).
-
-Also ensure **Settings → Pages → Source** is **GitHub Actions** (not “Deploy from a branch”).
+The workflow cannot enable Pages for you; that has to be done in **Settings → Pages** once per repo.
 
 ## Stack
 
